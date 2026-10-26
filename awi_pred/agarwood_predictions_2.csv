@@ -1,0 +1,468 @@
+Species,Total GH,Total AA,Prediction
+Aaosphaeria arxii,332,175,Brute Force Inducer
+Absidia glauca,120,25,Non-Inducer (Rejection)
+Acaromyces ingoldii,126,43,Non-Inducer (Rejection)
+Acrocalymma vagum,427,234,Brute Force Inducer
+Agaricus bisporus,186,97,Non-Inducer (Rejection)
+Akanthomyces muscarius,263,75,Non-Inducer (Rejection)
+Alternaria alternata,298,174,Non-Inducer (Rejection)
+Alternaria arborescens,298,172,Non-Inducer (Rejection)
+Alternaria arbusti,274,158,Non-Inducer (Rejection)
+Alternaria atra,325,171,Brute Force Inducer
+Alternaria burnsii,296,174,Non-Inducer (Rejection)
+Alternaria conjuncta,263,149,Non-Inducer (Rejection)
+Alternaria dauci,262,159,Non-Inducer (Rejection)
+Alternaria ethzedia,265,154,Wound Opportunist Inducer
+Alternaria incomplexa,266,152,Non-Inducer (Rejection)
+Alternaria infectoria,262,150,Non-Inducer (Rejection)
+Alternaria metachromatica,267,151,Non-Inducer (Rejection)
+Alternaria novae-zelandiae,268,151,Wound Opportunist Inducer
+Alternaria rosae,277,168,Non-Inducer (Rejection)
+Alternaria triticimaculans,265,156,Wound Opportunist Inducer
+Alternaria ventricosa,267,152,Non-Inducer (Rejection)
+Alternaria viburni,262,153,Non-Inducer (Rejection)
+Amorphotheca resinae,159,51,Non-Inducer (Rejection)
+Annulohypoxylon maeteangense,257,136,Non-Inducer (Rejection)
+Annulohypoxylon truncatum,247,149,Non-Inducer (Rejection)
+Apiospora arundinis,331,198,Non-Inducer (Rejection)
+Apiospora aurea,342,183,Non-Inducer (Rejection)
+Apiospora hydei,340,186,Brute Force Inducer
+Apiospora kogelbergensis,352,195,Brute Force Inducer
+Apiospora marii,336,213,Brute Force Inducer
+Apiospora phragmitis,334,151,Brute Force Inducer
+Apiotrichum porosum,181,32,Non-Inducer (Rejection)
+Aplosporella prunicola,202,92,Non-Inducer (Rejection)
+Arthrobotrys flagrans,190,70,Non-Inducer (Rejection)
+Arthroderma uncinatum,86,35,Non-Inducer (Rejection)
+Ascochyta rabiei,256,113,Wound Opportunist Inducer
+Aspergillus affinis,308,110,Wound Opportunist Inducer
+Aspergillus alliaceus,286,107,Non-Inducer (Rejection)
+Aspergillus ambiguus,280,108,Wound Opportunist Inducer
+Aspergillus bombycis,319,126,Wound Opportunist Inducer
+Aspergillus brasiliensis,280,112,Wound Opportunist Inducer
+Aspergillus caelatus,341,136,Brute Force Inducer
+Aspergillus campestris,186,70,Non-Inducer (Rejection)
+Aspergillus candidus,182,65,Non-Inducer (Rejection)
+Aspergillus chevalieri,158,71,Non-Inducer (Rejection)
+Aspergillus clavatus,208,63,Wound Opportunist Inducer
+Aspergillus foveolatus,302,105,Non-Inducer (Rejection)
+Aspergillus fumigatus,284,74,Wound Opportunist Inducer
+Aspergillus glaucus,161,72,Non-Inducer (Rejection)
+Aspergillus heteromorphus,211,78,Non-Inducer (Rejection)
+Aspergillus homomorphus,255,93,Non-Inducer (Rejection)
+Aspergillus ibericus,244,97,Non-Inducer (Rejection)
+Aspergillus japonicus,276,109,Wound Opportunist Inducer
+Aspergillus karnatakaensis,344,126,Wound Opportunist Inducer
+Aspergillus lentulus,330,91,Wound Opportunist Inducer
+Aspergillus lucknowensis,304,87,Wound Opportunist Inducer
+Aspergillus melleus,299,117,Wound Opportunist Inducer
+Aspergillus multicolor,313,111,Non-Inducer (Rejection)
+Aspergillus mulundensis,298,99,Non-Inducer (Rejection)
+Aspergillus nidulans,287,96,Non-Inducer (Rejection)
+Aspergillus niger,273,118,Wound Opportunist Inducer
+Aspergillus novofumigatus,325,87,Wound Opportunist Inducer
+Aspergillus ochraceoroseus,184,56,Wound Opportunist Inducer
+Aspergillus pseudodeflectus,415,132,Brute Force Inducer
+Aspergillus pseudotamarii,340,128,Wound Opportunist Inducer
+Aspergillus puulaauensis,335,128,Wound Opportunist Inducer
+Aspergillus ruber,151,75,Non-Inducer (Rejection)
+Aspergillus saccharolyticus,217,84,Non-Inducer (Rejection)
+Aspergillus sclerotioniger,250,107,Non-Inducer (Rejection)
+Aspergillus stella-maris,291,116,Non-Inducer (Rejection)
+Aspergillus steynii,296,115,Wound Opportunist Inducer
+Aspergillus sydowii,330,127,Wound Opportunist Inducer
+Aspergillus tanneri,212,92,Wound Opportunist Inducer
+Aspergillus terreus,291,100,Non-Inducer (Rejection)
+Aspergillus thermomutatus,300,85,Wound Opportunist Inducer
+Aspergillus udagawae,321,97,Wound Opportunist Inducer
+Aspergillus undulatus,287,89,Wound Opportunist Inducer
+Aspergillus uvarum,271,104,Wound Opportunist Inducer
+Aspergillus versicolor,344,126,Non-Inducer (Rejection)
+Aspergillus welwitschiae,289,115,Wound Opportunist Inducer
+Aspergillus wentii,244,107,Wound Opportunist Inducer
+Aureobasidium melanogenum,251,70,Non-Inducer (Rejection)
+Aureobasidium namibiae,278,69,Wound Opportunist Inducer
+Aureobasidium pullulans,293,73,Wound Opportunist Inducer
+Aureobasidium subglaciale,270,59,Wound Opportunist Inducer
+Bacidia gigantensis,89,53,Non-Inducer (Rejection)
+Baudoinia panamericana,175,47,Non-Inducer (Rejection)
+Beauveria bassiana,185,65,Non-Inducer (Rejection)
+Berkeleyomyces rouxiae,110,37,Non-Inducer (Rejection)
+Bipolaris maydis,270,153,Non-Inducer (Rejection)
+Bipolaris oryzae,264,140,Non-Inducer (Rejection)
+Bipolaris sorokiniana,267,138,Non-Inducer (Rejection)
+Boeremia exigua,318,148,Brute Force Inducer
+Botrytis byssoidea,249,106,Non-Inducer (Rejection)
+Botrytis cinerea,289,113,Wound Opportunist Inducer
+Botrytis fragariae,248,113,Non-Inducer (Rejection)
+Cadophora gregata,377,151,Brute Force Inducer
+Calcarisporiella thermophila,80,56,Non-Inducer (Rejection)
+Canariomyces notabilis,211,139,Non-Inducer (Rejection)
+Candida tropicalis,65,14,Non-Inducer (Rejection)
+Cantharellus anzutake,135,57,Non-Inducer (Rejection)
+Capronia coronata,124,39,Non-Inducer (Rejection)
+Capronia epimyces,120,51,Non-Inducer (Rejection)
+Cenococcum geophilum,168,79,Non-Inducer (Rejection)
+Ceratocystis lukuohia,111,34,Non-Inducer (Rejection)
+Cercospora beticola,263,108,Non-Inducer (Rejection)
+Cercospora kikuchii,279,115,Non-Inducer (Rejection)
+Chaetomium fimeti,252,158,Non-Inducer (Rejection)
+Chaetomium globosum,241,139,Non-Inducer (Rejection)
+Chaetomium strumarium,234,117,Non-Inducer (Rejection)
+Chaetomium tenue,262,143,Non-Inducer (Rejection)
+Cladophialophora bantiana,164,74,Non-Inducer (Rejection)
+Cladophialophora carrionii,156,61,Non-Inducer (Rejection)
+Cladophialophora immunda,169,79,Non-Inducer (Rejection)
+Cladophialophora psammophila,160,83,Non-Inducer (Rejection)
+Cladophialophora yegresii,143,57,Non-Inducer (Rejection)
+Cladosporium halotolerans,270,93,Non-Inducer (Rejection)
+Cokeromyces recurvatus,80,22,Non-Inducer (Rejection)
+Coleophoma crateriformis,380,141,Brute Force Inducer
+Colletotrichum acutatum,383,189,Brute Force Inducer
+Colletotrichum aenigma,438,226,Brute Force Inducer
+Colletotrichum chrysophilum,442,221,Brute Force Inducer
+Colletotrichum destructivum,357,170,Brute Force Inducer
+Colletotrichum fioriniae,388,190,Brute Force Inducer
+Colletotrichum fructicola,455,237,Brute Force Inducer
+Colletotrichum gloeosporioides,447,236,Brute Force Inducer
+Colletotrichum godetiae,394,196,Brute Force Inducer
+Colletotrichum graminicola,299,147,Non-Inducer (Rejection)
+Colletotrichum higginsianum,344,176,Brute Force Inducer
+Colletotrichum karsti,439,220,Brute Force Inducer
+Colletotrichum navitas,307,152,Brute Force Inducer
+Colletotrichum orchidophilum,311,155,Brute Force Inducer
+Colletotrichum phormii,372,185,Brute Force Inducer
+Colletotrichum scovillei,401,206,Brute Force Inducer
+Colletotrichum siamense,445,232,Brute Force Inducer
+Colletotrichum spaethianum,345,165,Brute Force Inducer
+Colletotrichum truncatum,440,202,Brute Force Inducer
+Coniophora puteana,261,66,Wound Opportunist Inducer
+Coniosporium apollinis,149,51,Non-Inducer (Rejection)
+Coprinopsis cinerea,203,138,Non-Inducer (Rejection)
+Cordyceps fumosorosea,189,63,Non-Inducer (Rejection)
+Cordyceps militaris,170,57,Non-Inducer (Rejection)
+Cryphonectria parasitica,302,98,Non-Inducer (Rejection)
+Cucurbitaria berberidis,251,139,Non-Inducer (Rejection)
+Cutaneotrichosporon cavernicola,101,26,Non-Inducer (Rejection)
+Cutaneotrichosporon oleaginosum,80,29,Non-Inducer (Rejection)
+Cyphellophora attinorum,175,73,Non-Inducer (Rejection)
+Cyphellophora europaea,197,79,Non-Inducer (Rejection)
+Cystobasidium minutum,86,21,Non-Inducer (Rejection)
+Dacryopinax primogenitus,169,30,Non-Inducer (Rejection)
+Daldinia caldariorum,239,116,Non-Inducer (Rejection)
+Daldinia childiae,260,152,Non-Inducer (Rejection)
+Daldinia decipiens,244,138,Non-Inducer (Rejection)
+Daldinia loculata,240,124,Non-Inducer (Rejection)
+Daldinia vernicosa,239,131,Non-Inducer (Rejection)
+Debaryomyces fabryi,83,14,Non-Inducer (Rejection)
+Debaryomyces hansenii,80,11,Non-Inducer (Rejection)
+Diaporthe amygdali,438,245,Brute Force Inducer
+Diaporthe batatas,385,230,Brute Force Inducer
+Diaporthe citri,441,248,Brute Force Inducer
+Dichomitus squalens,234,108,Non-Inducer (Rejection)
+Dichotomopilus funicola,229,108,Non-Inducer (Rejection)
+Didymella exigua,261,108,Wound Opportunist Inducer
+Didymosphaeria variabile,349,164,Brute Force Inducer
+Dioszegia hungarica,130,22,Non-Inducer (Rejection)
+Diplodia corticola,261,107,Non-Inducer (Rejection)
+Diplodia seriata,269,112,Non-Inducer (Rejection)
+Dipodascopsis tothii,59,9,Non-Inducer (Rejection)
+Dissoconium aciculare,123,43,Non-Inducer (Rejection)
+Dothidotthia symphoricarpi,213,99,Non-Inducer (Rejection)
+Drechmeria coniospora,118,34,Non-Inducer (Rejection)
+Drepanopeziza brunnea,205,83,Non-Inducer (Rejection)
+Durotheca rogersii,217,119,Non-Inducer (Rejection)
+Emericellopsis atlantica,247,90,Non-Inducer (Rejection)
+Emericellopsis cladophorae,218,78,Non-Inducer (Rejection)
+Endocarpon pusillum,108,56,Non-Inducer (Rejection)
+Epithele typhae,242,114,Non-Inducer (Rejection)
+Eremomyces bilateralis,122,78,Non-Inducer (Rejection)
+Eremothecium gossypii,45,4,Non-Inducer (Rejection)
+Exophiala aquamarina,187,72,Non-Inducer (Rejection)
+Exophiala bonariae,184,100,Non-Inducer (Rejection)
+Exophiala dermatitidis,132,43,Non-Inducer (Rejection)
+Exophiala mesophila,126,64,Non-Inducer (Rejection)
+Exophiala oligosperma,177,74,Non-Inducer (Rejection)
+Exophiala spinifera,159,61,Non-Inducer (Rejection)
+Exophiala viscosa,154,56,Non-Inducer (Rejection)
+Exophiala xenobiotica,199,87,Non-Inducer (Rejection)
+Exserohilum turcicum,246,141,Non-Inducer (Rejection)
+Fibroporia radiculosa,136,40,Non-Inducer (Rejection)
+Filobasidium floriforme,149,23,Non-Inducer (Rejection)
+Fimicolochytrium jonesii,76,40,Non-Inducer (Rejection)
+Fomitiporia mediterranea,219,95,Non-Inducer (Rejection)
+Fomitopsis serialis,207,68,Wound Opportunist Inducer
+Fonsecaea erecta,166,73,Non-Inducer (Rejection)
+Fonsecaea monophora,146,70,Non-Inducer (Rejection)
+Fonsecaea multimorphosa,158,81,Non-Inducer (Rejection)
+Fonsecaea nubica,150,71,Non-Inducer (Rejection)
+Fonsecaea pedrosoi,150,72,Non-Inducer (Rejection)
+Fulvia fulva,288,97,Non-Inducer (Rejection)
+Fusarium coffeatum,264,113,Non-Inducer (Rejection)
+Fusarium falciforme,370,143,Brute Force Inducer
+Fusarium flagelliforme,296,121,Non-Inducer (Rejection)
+Fusarium graminearum,269,114,Non-Inducer (Rejection)
+Fusarium keratoplasticum,357,139,Brute Force Inducer
+Fusarium mangiferae,361,141,Brute Force Inducer
+Fusarium oxysporum,418,152,Brute Force Inducer
+Fusarium poae,248,119,Non-Inducer (Rejection)
+Fusarium pseudograminearum,259,112,Non-Inducer (Rejection)
+Fusarium redolens,381,142,Brute Force Inducer
+Fusarium solani,391,159,Brute Force Inducer
+Fusarium subglutinans,357,130,Brute Force Inducer
+Fusarium tjaetaba,345,132,Wound Opportunist Inducer
+Fusarium vanettenii,358,147,Brute Force Inducer
+Fusarium venenatum,296,121,Non-Inducer (Rejection)
+Fusarium verticillioides,391,148,Brute Force Inducer
+Gaeumannomyces tritici,267,126,Non-Inducer (Rejection)
+Gamsiella multidivaricata,76,33,Non-Inducer (Rejection)
+Geosmithia morbida,141,43,Non-Inducer (Rejection)
+Gilbertella persicaria,107,25,Non-Inducer (Rejection)
+Glarea lozoyensis,266,145,Non-Inducer (Rejection)
+Gloeophyllum trabeum,219,54,Wound Opportunist Inducer
+Gomphillus americanus,125,37,Non-Inducer (Rejection)
+Guyanagaster necrorhizus,241,108,Non-Inducer (Rejection)
+Heterobasidion irregulare,188,108,Non-Inducer (Rejection)
+Hirsutella rhossiliensis,140,65,Non-Inducer (Rejection)
+Hyaloscypha bicolor,357,139,Brute Force Inducer
+Hypoxylon fragiforme,223,106,Non-Inducer (Rejection)
+Hypoxylon trugodes,263,168,Non-Inducer (Rejection)
+Ilyonectria robusta,436,168,Brute Force Inducer
+Jaminaea rosea,91,21,Non-Inducer (Rejection)
+Kalmanozyma brasiliensis,109,28,Non-Inducer (Rejection)
+Kickxella alabastrina,85,33,Non-Inducer (Rejection)
+Knufia obscura,172,67,Non-Inducer (Rejection)
+Kockiozyma suomiensis,71,20,Non-Inducer (Rejection)
+Kwoniella dejecticola,141,23,Non-Inducer (Rejection)
+Kwoniella dendrophila,117,21,Non-Inducer (Rejection)
+Kwoniella heveanensis,130,18,Non-Inducer (Rejection)
+Laccaria bicolor,158,53,Non-Inducer (Rejection)
+Lachnellula hyalina,221,91,Non-Inducer (Rejection)
+Lasiodiplodia theobromae,306,156,Brute Force Inducer
+Lasiosphaeria miniovina,255,155,Non-Inducer (Rejection)
+Lentinula edodes,266,92,Non-Inducer (Rejection)
+Lentinus tigrinus,246,122,Non-Inducer (Rejection)
+Leptographium clavigerum,157,50,Non-Inducer (Rejection)
+Letharia lupina,132,59,Non-Inducer (Rejection)
+Lichtheimia ornata,123,22,Non-Inducer (Rejection)
+Limtongia smithiae,58,13,Non-Inducer (Rejection)
+Linderina pennispora,155,61,Non-Inducer (Rejection)
+Lindgomyces ingoldianus,292,181,Non-Inducer (Rejection)
+Lipomyces japonicus,63,8,Non-Inducer (Rejection)
+Lipomyces tetrasporus,106,29,Non-Inducer (Rejection)
+Lithohypha guttulata,125,45,Non-Inducer (Rejection)
+Lobosporangium transversale,69,39,Non-Inducer (Rejection)
+Lodderomyces beijingensis,90,20,Non-Inducer (Rejection)
+Macroventuria anomochaeta,267,101,Non-Inducer (Rejection)
+Madurella fahalii,240,170,Non-Inducer (Rejection)
+Marasmius oreades,284,167,Non-Inducer (Rejection)
+Melampsora laricis-populina,196,55,Non-Inducer (Rejection)
+Melanopsichium pennsylvanicum,99,28,Non-Inducer (Rejection)
+Metarhizium acridum,191,68,Non-Inducer (Rejection)
+Metarhizium album,143,44,Non-Inducer (Rejection)
+Metarhizium brunneum,193,78,Non-Inducer (Rejection)
+Metarhizium robertsii,206,87,Non-Inducer (Rejection)
+Metschnikowia bicuspidata,51,8,Non-Inducer (Rejection)
+Meyerozyma guilliermondii,69,11,Non-Inducer (Rejection)
+Microdochium trichocladiopsis,344,135,Brute Force Inducer
+Microsporum canis,92,41,Non-Inducer (Rejection)
+Moesziomyces antarcticus,127,31,Non-Inducer (Rejection)
+Mollisia scopiformis,407,192,Brute Force Inducer
+Morchella importuna,182,73,Non-Inducer (Rejection)
+Morchella sextelata,185,78,Non-Inducer (Rejection)
+Mrakia frigida,122,28,Non-Inducer (Rejection)
+Mucor mucedo,121,26,Non-Inducer (Rejection)
+Mucor velutinosus,109,25,Non-Inducer (Rejection)
+Mycena indigotica,311,120,Non-Inducer (Rejection)
+Mycosarcoma maydis,114,31,Non-Inducer (Rejection)
+Mycothermus thermophilus,162,80,Non-Inducer (Rejection)
+Mycotypha africana,72,18,Non-Inducer (Rejection)
+Mytilinidion resinicola,185,93,Non-Inducer (Rejection)
+Myxozyma melibiosi,83,19,Non-Inducer (Rejection)
+Nannizzia gypsea,87,43,Non-Inducer (Rejection)
+Neoarthrinium moseri,380,223,Brute Force Inducer
+Neodothiora populina,184,54,Non-Inducer (Rejection)
+Neohortaea acidophila,127,43,Non-Inducer (Rejection)
+Neurospora crassa,199,77,Non-Inducer (Rejection)
+Neurospora hispaniola,185,74,Non-Inducer (Rejection)
+Neurospora tetrasperma,181,75,Non-Inducer (Rejection)
+Neurospora tetraspora,212,93,Non-Inducer (Rejection)
+Niveomyces insectorum,196,73,Non-Inducer (Rejection)
+Ophidiomyces ophidiicola,71,24,Non-Inducer (Rejection)
+Orbilia oligospora,215,74,Non-Inducer (Rejection)
+Paecilomyces variotii,156,60,Non-Inducer (Rejection)
+Paracoccidioides brasiliensis,73,26,Non-Inducer (Rejection)
+Paracoccidioides lutzii,76,28,Non-Inducer (Rejection)
+Paraphaeosphaeria sporulosa,361,183,Brute Force Inducer
+Parastagonospora nodorum,287,160,Non-Inducer (Rejection)
+Parathielavia appendiculata,245,130,Non-Inducer (Rejection)
+Penicilliopsis zonata,205,51,Non-Inducer (Rejection)
+Penicillium alfredii,151,49,Non-Inducer (Rejection)
+Penicillium angulare,292,99,Non-Inducer (Rejection)
+Penicillium antarcticum,276,94,Non-Inducer (Rejection)
+Penicillium argentinense,293,86,Wound Opportunist Inducer
+Penicillium arizonense,326,104,Non-Inducer (Rejection)
+Penicillium atrosanguineum,273,82,Wound Opportunist Inducer
+Penicillium bovifimosum,213,48,Non-Inducer (Rejection)
+Penicillium brevicompactum,276,107,Wound Opportunist Inducer
+Penicillium canariense,255,76,Non-Inducer (Rejection)
+Penicillium canescens,370,120,Non-Inducer (Rejection)
+Penicillium cataractarum,385,101,Wound Opportunist Inducer
+Penicillium chermesinum,188,62,Non-Inducer (Rejection)
+Penicillium cinerascens,239,61,Non-Inducer (Rejection)
+Penicillium citrinum,269,89,Non-Inducer (Rejection)
+Penicillium concentricum,258,103,Wound Opportunist Inducer
+Penicillium coprophilum,227,84,Non-Inducer (Rejection)
+Penicillium cosmopolitanum,352,113,Wound Opportunist Inducer
+Penicillium crustosum,278,88,Wound Opportunist Inducer
+Penicillium daleae,398,90,Wound Opportunist Inducer
+Penicillium diatomitis,227,53,Non-Inducer (Rejection)
+Penicillium digitatum,180,50,Non-Inducer (Rejection)
+Penicillium expansum,267,100,Wound Opportunist Inducer
+Penicillium griseofulvum,239,84,Non-Inducer (Rejection)
+Penicillium hispanicum,173,57,Non-Inducer (Rejection)
+Penicillium hordei,262,86,Wound Opportunist Inducer
+Penicillium lagena,365,76,Wound Opportunist Inducer
+Penicillium longicatenatum,327,103,Wound Opportunist Inducer
+Penicillium maclennaniae,216,65,Wound Opportunist Inducer
+Penicillium macrosclerotiorum,291,87,Wound Opportunist Inducer
+Penicillium malachiteum,299,102,Wound Opportunist Inducer
+Penicillium manginii,353,104,Wound Opportunist Inducer
+Penicillium mononematosum,259,87,Wound Opportunist Inducer
+Penicillium nucicola,301,94,Non-Inducer (Rejection)
+Penicillium odoratum,285,98,Non-Inducer (Rejection)
+Penicillium oxalicum,232,57,Wound Opportunist Inducer
+Penicillium paradoxum,186,76,Non-Inducer (Rejection)
+Penicillium psychrofluorescens,315,61,Non-Inducer (Rejection)
+Penicillium pulvis,289,99,Wound Opportunist Inducer
+Penicillium riverlandense,358,70,Wound Opportunist Inducer
+Penicillium samsonianum,281,100,Wound Opportunist Inducer
+Penicillium solitum,281,86,Wound Opportunist Inducer
+Penicillium soppii,295,95,Non-Inducer (Rejection)
+Penicillium subrubescens,401,102,Wound Opportunist Inducer
+Penicillium taxi,167,53,Wound Opportunist Inducer
+Penicillium verhagenii,288,87,Non-Inducer (Rejection)
+Penicillium verrucosum,247,75,Wound Opportunist Inducer
+Penicillium vulpinum,250,93,Wound Opportunist Inducer
+Penicillium waksmanii,328,100,Non-Inducer (Rejection)
+Periconia digitata,307,181,Non-Inducer (Rejection)
+Pestalotiopsis fici,452,240,Brute Force Inducer
+Phaeoacremonium minimum,272,93,Non-Inducer (Rejection)
+Phanerochaete carnosa,192,121,Non-Inducer (Rejection)
+Phialemonium atrogriseum,254,138,Non-Inducer (Rejection)
+Phycomyces blakesleeanus,86,19,Wound Opportunist Inducer
+Phyllosticta capitalensis,188,73,Non-Inducer (Rejection)
+Phyllosticta citriasiana,188,72,Non-Inducer (Rejection)
+Phyllosticta citribraziliensis,186,72,Non-Inducer (Rejection)
+Pisolithus orientalis,97,36,Non-Inducer (Rejection)
+Plenodomus biglobosus,243,110,Non-Inducer (Rejection)
+Plenodomus lingam,229,102,Non-Inducer (Rejection)
+Pochonia chlamydosporia,325,90,Non-Inducer (Rejection)
+Podospora anserina,219,144,Non-Inducer (Rejection)
+Polychytrium aggregatum,121,23,Non-Inducer (Rejection)
+Pseudocercospora fijiensis,239,79,Non-Inducer (Rejection)
+Pseudogymnoascus destructans,116,41,Non-Inducer (Rejection)
+Pseudogymnoascus verrucosus,362,108,Wound Opportunist Inducer
+Pseudomassariella vexata,321,161,Brute Force Inducer
+Pseudovirgaria hyperparasitica,216,90,Non-Inducer (Rejection)
+Pseudozyma flocculosa,126,27,Non-Inducer (Rejection)
+Pseudozyma hubeiensis,121,30,Non-Inducer (Rejection)
+Psilocybe cubensis,253,148,Non-Inducer (Rejection)
+Puccinia graminis,178,38,Non-Inducer (Rejection)
+Puccinia striiformis,213,51,Non-Inducer (Rejection)
+Puccinia triticina,171,45,Non-Inducer (Rejection)
+Punctularia strigosozonata,245,100,Non-Inducer (Rejection)
+Purpureocillium lilacinum,256,79,Non-Inducer (Rejection)
+Purpureocillium takamizusanense,240,72,Non-Inducer (Rejection)
+Pyrenophora tritici-repentis,242,136,Non-Inducer (Rejection)
+Pyricularia grisea,267,134,Non-Inducer (Rejection)
+Pyricularia oryzae,270,131,Non-Inducer (Rejection)
+Pyricularia pennisetigena,265,127,Non-Inducer (Rejection)
+Ramularia collo-cygni,227,67,Non-Inducer (Rejection)
+Rasamsonia byssochlamydoides,219,55,Non-Inducer (Rejection)
+Rasamsonia emersonii,219,58,Non-Inducer (Rejection)
+Recurvomyces mirabilis,296,76,Non-Inducer (Rejection)
+Remersonia thermophila,146,72,Non-Inducer (Rejection)
+Rhinocladiella mackenziei,137,66,Non-Inducer (Rejection)
+Rhizoctonia solani,326,136,Brute Force Inducer
+Rhizomucor pusillus,118,23,Non-Inducer (Rejection)
+Rhizophagus irregularis,40,45,Non-Inducer (Rejection)
+Rhizopus delemar,140,21,Wound Opportunist Inducer
+Rhizopus microsporus,102,18,Non-Inducer (Rejection)
+Rhodofomes roseus,197,55,Wound Opportunist Inducer
+Rhodonia placenta,149,53,Wound Opportunist Inducer
+Rhodotorula graminis,80,22,Non-Inducer (Rejection)
+Rhodotorula pacifica,80,17,Non-Inducer (Rejection)
+Rhodotorula paludigena,86,27,Non-Inducer (Rejection)
+Rhodotorula toruloides,80,24,Non-Inducer (Rejection)
+Saitoella complicata,85,15,Non-Inducer (Rejection)
+Sarocladium implicatum,311,100,Non-Inducer (Rejection)
+Saxophila tyrrhenica,223,63,Non-Inducer (Rejection)
+Scedosporium apiospermum,194,126,Non-Inducer (Rejection)
+Schizophyllum commune,260,93,Non-Inducer (Rejection)
+Sclerotinia sclerotiorum,228,82,Non-Inducer (Rejection)
+Septoria linicola,279,85,Non-Inducer (Rejection)
+Sodiomyces alcalophilus,157,71,Non-Inducer (Rejection)
+Sodiomyces alkalinus,149,79,Non-Inducer (Rejection)
+Sordaria macrospora,208,99,Non-Inducer (Rejection)
+Sparassis crispa,135,34,Non-Inducer (Rejection)
+Sphaerulina musiva,182,59,Non-Inducer (Rejection)
+Sporisorium graminicola,122,30,Non-Inducer (Rejection)
+Sporobolomyces koalae,82,19,Non-Inducer (Rejection)
+Sporobolomyces salmoneus,86,19,Non-Inducer (Rejection)
+Sporothrix brasiliensis,198,71,Non-Inducer (Rejection)
+Sporothrix schenckii,212,73,Wound Opportunist Inducer
+Stagonosporopsis vannaccii,290,129,Non-Inducer (Rejection)
+Stereum hirsutum,295,129,Non-Inducer (Rejection)
+Suillus paluster,148,60,Non-Inducer (Rejection)
+Talaromyces amestolkiae,374,85,Wound Opportunist Inducer
+Talaromyces atroroseus,228,62,Wound Opportunist Inducer
+Talaromyces marneffei,225,67,Non-Inducer (Rejection)
+Talaromyces proteolyticus,363,101,Non-Inducer (Rejection)
+Talaromyces rugulosus,353,115,Wound Opportunist Inducer
+Talaromyces stipitatus,275,89,Non-Inducer (Rejection)
+Thermoascus crustaceus,169,51,Non-Inducer (Rejection)
+Thermochaetoides thermophila,141,63,Non-Inducer (Rejection)
+Thermomyces dupontii,98,28,Non-Inducer (Rejection)
+Thermomyces lanuginosus,103,31,Non-Inducer (Rejection)
+Thermothelomyces heterothallicus,196,84,Non-Inducer (Rejection)
+Thermothelomyces thermophilus,196,79,Non-Inducer (Rejection)
+Thermothielavioides terrestris,213,96,Non-Inducer (Rejection)
+Thyridium curvatum,320,120,Wound Opportunist Inducer
+Tilletiaria anomala,80,19,Non-Inducer (Rejection)
+Tilletiopsis washingtonensis,88,24,Non-Inducer (Rejection)
+Trametes versicolor,240,108,Non-Inducer (Rejection)
+Trematosphaeria pertusa,320,186,Brute Force Inducer
+Tremella mesenterica,75,13,Non-Inducer (Rejection)
+Tricharina praecox,133,74,Non-Inducer (Rejection)
+Trichoderma afroharzianum,276,84,Non-Inducer (Rejection)
+Trichoderma aggressivum,264,80,Non-Inducer (Rejection)
+Trichoderma asperellum,278,72,Non-Inducer (Rejection)
+Trichoderma atroviride,280,74,Non-Inducer (Rejection)
+Trichoderma breve,284,88,Non-Inducer (Rejection)
+Trichoderma citrinoviride,213,67,Non-Inducer (Rejection)
+Trichoderma gamsii,268,75,Non-Inducer (Rejection)
+Trichoderma ghanense,205,59,Non-Inducer (Rejection)
+Trichoderma harzianum,288,89,Non-Inducer (Rejection)
+Trichoderma reesei,207,59,Non-Inducer (Rejection)
+Trichoderma virens,283,87,Non-Inducer (Rejection)
+Trichophyton rubrum,90,37,Non-Inducer (Rejection)
+Trichosporon asahii,100,33,Non-Inducer (Rejection)
+Truncatella angustata,396,200,Brute Force Inducer
+Tuber melanosporum,88,37,Non-Inducer (Rejection)
+Uncinocarpus reesii,79,26,Non-Inducer (Rejection)
+Ustilaginoidea virens,129,35,Non-Inducer (Rejection)
+Ustilago hordei,99,27,Non-Inducer (Rejection)
+Vanrija albida,110,29,Non-Inducer (Rejection)
+Vanrija pseudolonga,128,29,Non-Inducer (Rejection)
+Venturia effusa,211,90,Non-Inducer (Rejection)
+Venustampulla echinocandica,228,95,Non-Inducer (Rejection)
+Verruconis gallopava,151,64,Non-Inducer (Rejection)
+Verticillium alfalfae,281,108,Non-Inducer (Rejection)
+Verticillium dahliae,278,107,Non-Inducer (Rejection)
+Verticillium nonalfalfae,285,118,Non-Inducer (Rejection)
+Westerdykella ornata,196,107,Non-Inducer (Rejection)
+Xylaria bambusicola,271,145,Non-Inducer (Rejection)
+Xylona heveae,102,24,Non-Inducer (Rejection)
+Zasmidium cellare,354,144,Non-Inducer (Rejection)
+Zymoseptoria tritici,197,64,Non-Inducer (Rejection)

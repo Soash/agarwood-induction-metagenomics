@@ -1,0 +1,70 @@
+# ==============================================================================
+# Git Ignore Configuration for Unpublished Agarwood Metagenomics Project
+# Protects confidential manuscripts, institutional proposals, and raw FASTQ data
+# ==============================================================================
+
+# --- Raw Sequencing & Fastq Files (Confidential Biological Data) ---
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+data/fungi_reads/
+raw_data/
+trimmed_data/
+host_removed/
+host_genome/
+
+# --- Large Pairwise CAZy/Alignment Matrices ---
+dbCAN/results/*_vs_CAZy.tsv
+dbCAN/db/
+*.bam
+*.sam
+*.fna
+*.fasta
+*.tar.gz
+*.zip
+
+# --- Unpublished Manuscript Drafts & Institutional Documents ---
+pdf/
+*.docx
+*.doc
+*.pptx
+*.pdf
+
+# --- Python & Environment Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Nn]anorc
+*.swp
+*~

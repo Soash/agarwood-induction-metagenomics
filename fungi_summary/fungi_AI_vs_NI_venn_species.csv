@@ -1,0 +1,534 @@
+species,region
+Absidia glauca,AI only
+Ambrosiella xylebori,AI only
+Aspergillus clavatophorus,AI only
+Aspergillus welwitschiae,AI only
+Berkeleyomyces basicola,AI only
+Bretziella fagacearum,AI only
+Candida tropicalis,AI only
+Ceratocystis adiposa,AI only
+Ceratocystis fimbriata,AI only
+Cokeromyces recurvatus,AI only
+Coprinellus micaceus,AI only
+Cytospora mali,AI only
+Dacryopinax primogenitus,AI only
+Debaryomyces fabryi,AI only
+Debaryomyces hansenii,AI only
+Debaryomyces vietnamensis,AI only
+Endoconidiophora resinifera,AI only
+Fusarium gamtoosense,AI only
+Gilbertella persicaria,AI only
+Lasiodiplodia sp. JAS12,AI only
+Leptographium flavum,AI only
+Mucor mucedo,AI only
+Mucor racemosus,AI only
+Mucor velutinosus,AI only
+Mycotypha africana,AI only
+Nectria cinnabarina,AI only
+Penicillium solitum,AI only
+Phycomyces blakesleeanus,AI only
+Rhizopus arrhizus,AI only
+Rhizopus delemar,AI only
+Rhizopus microsporus,AI only
+Rhizopus stolonifer,AI only
+Sporoschismopsis angustata,AI only
+[Candida] psychrophila,AI only
+[Neocosmospora] sp. 1 WYB-2024,AI only
+Acrocalymma sp.,NI only
+Acrocalymma vagum,NI only
+Agaricus bisporus,NI only
+Alternaria alternata,NI only
+Alternaria arborescens,NI only
+Alternaria arbusti,NI only
+Alternaria atra,NI only
+Alternaria burnsii,NI only
+Alternaria conjuncta,NI only
+Alternaria dauci,NI only
+Alternaria ethzedia,NI only
+Alternaria incomplexa,NI only
+Alternaria infectoria,NI only
+Alternaria metachromatica,NI only
+Alternaria novae-zelandiae,NI only
+Alternaria rosae,NI only
+Alternaria triticimaculans,NI only
+Alternaria ventricosa,NI only
+Alternaria viburni,NI only
+Annulohypoxylon stygium,NI only
+Apiospora arundinis,NI only
+Apiotrichum porosum,NI only
+Arthrobotrys flagrans,NI only
+Arthroderma uncinatum,NI only
+Aspergillus bombycis,NI only
+Aspergillus caelatus,NI only
+Aspergillus campestris,NI only
+Aspergillus chevalieri,NI only
+Aspergillus citrinoterreus,NI only
+Aspergillus clavatus,NI only
+Aspergillus foveolatus,NI only
+Aspergillus glaucus,NI only
+Aspergillus homomorphus,NI only
+Aspergillus ibericus,NI only
+Aspergillus japonicus,NI only
+Aspergillus lentulus,NI only
+Aspergillus melleus,NI only
+Aspergillus multicolor,NI only
+Aspergillus mulundensis,NI only
+Aspergillus nidulans,NI only
+Aspergillus novofumigatus,NI only
+Aspergillus ochraceoroseus,NI only
+Aspergillus pseudodeflectus,NI only
+Aspergillus pseudotamarii,NI only
+Aspergillus ruber,NI only
+Aspergillus saccharolyticus,NI only
+Aspergillus sclerotioniger,NI only
+Aspergillus stella-maris,NI only
+Aspergillus steynii,NI only
+Aspergillus tanneri,NI only
+Aspergillus terreus,NI only
+Aspergillus thermomutatus,NI only
+Aspergillus udagawae,NI only
+Aspergillus undulatus,NI only
+Aspergillus uvarum,NI only
+Aureobasidium melanogenum,NI only
+Aureobasidium namibiae,NI only
+Aureobasidium pullulans,NI only
+Aureobasidium subglaciale,NI only
+Bacidia gigantensis,NI only
+Bacidia sp.,NI only
+Bipolaris maydis,NI only
+Bipolaris oryzae,NI only
+Bipolaris sorokiniana,NI only
+Botrytis byssoidea,NI only
+Botrytis cinerea,NI only
+Botrytis fragariae,NI only
+Calcarisporiella thermophila,NI only
+Cantharellus anzutake,NI only
+Coccocarpia palmicola,NI only
+Coleophoma crateriformis,NI only
+Colletotrichum aenigma,NI only
+Colletotrichum chrysophilum,NI only
+Colletotrichum destructivum,NI only
+Colletotrichum fructicola,NI only
+Colletotrichum gloeosporioides,NI only
+Colletotrichum godetiae,NI only
+Colletotrichum phormii,NI only
+Colletotrichum scovillei,NI only
+Colletotrichum siamense,NI only
+Coniosporium apollinis,NI only
+Coniothyrium glycines,NI only
+Coprinopsis cinerea,NI only
+Corynespora cassiicola,NI only
+Cutaneotrichosporon cavernicola,NI only
+Cutaneotrichosporon oleaginosum,NI only
+Cyphellophora europaea,NI only
+Cystobasidium minutum,NI only
+Daldinia childiae,NI only
+Daldinia decipiens,NI only
+Daldinia loculata,NI only
+Dematophora necatrix,NI only
+Dioszegia hungarica,NI only
+Dissoconium aciculare,NI only
+Dothideomycetes sp. NU200,NI only
+Edenia gomezpompae,NI only
+Emericellopsis cladophorae,NI only
+Epithele typhae,NI only
+Eremothecium gossypii,NI only
+Esteya vermicola,NI only
+Fibroporia radiculosa,NI only
+Filobasidium floriforme,NI only
+Fimicolochytrium jonesii,NI only
+Fomitiporia mediterranea,NI only
+Fusarium flagelliforme,NI only
+Fusarium graminearum,NI only
+Fusarium poae,NI only
+Fusarium pseudograminearum,NI only
+Fusarium redolens,NI only
+Fusarium subglutinans,NI only
+Fusarium tjaetaba,NI only
+Fusarium venenatum,NI only
+Fusarium verticillioides,NI only
+Gamsiella multidivaricata,NI only
+Ganoderma boninense,NI only
+Gloeophyllum trabeum,NI only
+Gonatophragmium mori,NI only
+Grosmannia fruticeta,NI only
+Guyanagaster necrorhizus,NI only
+Hypocrella siamensis,NI only
+Hypomontagnella monticulosa,NI only
+Kalmanozyma brasiliensis,NI only
+Knufia obscura,NI only
+Kockiozyma suomiensis,NI only
+Kwoniella dejecticola,NI only
+Kwoniella dendrophila,NI only
+Kwoniella heveanensis,NI only
+Laccaria bicolor,NI only
+Lachnellula hyalina,NI only
+Lecanora cinereofusca,NI only
+Lentinula edodes,NI only
+Lentinus tigrinus,NI only
+Letharia lupina,NI only
+Lichtheimia ornata,NI only
+Lignosphaeria diospyrosa,NI only
+Limtongia smithiae,NI only
+Linderina pennispora,NI only
+Lipomyces japonicus,NI only
+Lipomyces tetrasporus,NI only
+Lobosporangium transversale,NI only
+Lodderomyces beijingensis,NI only
+Marasmius oreades,NI only
+Melampsora laricis-populina,NI only
+Melanopsichium pennsylvanicum,NI only
+Metarhizium acridum,NI only
+Metarhizium brunneum,NI only
+Metarhizium robertsii,NI only
+Metschnikowia bicuspidata,NI only
+Meyerozyma guilliermondii,NI only
+Microsporum canis,NI only
+Morchella importuna,NI only
+Mrakia frigida,NI only
+Mycena indigotica,NI only
+Mycosarcoma maydis,NI only
+Myxozyma melibiosi,NI only
+Nannizzia gypsea,NI only
+Nemania diffusa,NI only
+Neodothiora populina,NI only
+Neurospora crassa,NI only
+Neurospora hispaniola,NI only
+Neurospora tetrasperma,NI only
+Neurospora tetraspora,NI only
+Niveomyces insectorum,NI only
+Ophidiomyces ophidiicola,NI only
+Ophiocordyceps sp.,NI only
+Orbilia oligospora,NI only
+Paracoccidioides brasiliensis,NI only
+Paracoccidioides lutzii,NI only
+Penicillium alfredii,NI only
+Penicillium angulare,NI only
+Penicillium antarcticum,NI only
+Penicillium argentinense,NI only
+Penicillium arizonense,NI only
+Penicillium atrosanguineum,NI only
+Penicillium bovifimosum,NI only
+Penicillium canariense,NI only
+Penicillium canescens,NI only
+Penicillium chermesinum,NI only
+Penicillium concentricum,NI only
+Penicillium coprophilum,NI only
+Penicillium cosmopolitanum,NI only
+Penicillium diatomitis,NI only
+Penicillium digitatum,NI only
+Penicillium expansum,NI only
+Penicillium griseofulvum,NI only
+Penicillium hispanicum,NI only
+Penicillium hordei,NI only
+Penicillium lagena,NI only
+Penicillium longicatenatum,NI only
+Penicillium maclennaniae,NI only
+Penicillium malachiteum,NI only
+Penicillium mononematosum,NI only
+Penicillium nucicola,NI only
+Penicillium odoratum,NI only
+Penicillium paradoxum,NI only
+Penicillium psychrofluorescens,NI only
+Penicillium pulvis,NI only
+Penicillium samsonianum,NI only
+Penicillium taxi,NI only
+Penicillium verhagenii,NI only
+Penicillium verrucosum,NI only
+Penicillium vulpinum,NI only
+Periconia digitata,NI only
+Pertusaria propinqua,NI only
+Pezizomycotina sp. YRX-2025g,NI only
+Phaeoseptaceae sp. YJ-2025a,NI only
+Phanerochaete carnosa,NI only
+Phlyctis petraea,NI only
+Phoma sp. 1 OB-2014,NI only
+Phyllosticta citriasiana,NI only
+Pisolithus orientalis,NI only
+Plectosphaerella sp.,NI only
+Plenodomus lingam,NI only
+Pleosporales sp. BCC25093,NI only
+Polychytrium aggregatum,NI only
+Pseudocercospora fijiensis,NI only
+Pseudogymnoascus destructans,NI only
+Pseudopithomyces chartarum,NI only
+Pseudovirgaria hyperparasitica,NI only
+Pseudozyma hubeiensis,NI only
+Psilocybe cubensis,NI only
+Puccinia graminis,NI only
+Puccinia striiformis,NI only
+Puccinia triticina,NI only
+Punctularia strigosozonata,NI only
+Pyrenophora tritici-repentis,NI only
+Ramularia collo-cygni,NI only
+Recurvomyces mirabilis,NI only
+Rhizoctonia solani,NI only
+Rhizomucor pusillus,NI only
+Rhizophagus irregularis,NI only
+Rhodonia placenta,NI only
+Rhodotorula pacifica,NI only
+Saitoella complicata,NI only
+Sarocladium implicatum,NI only
+Schizothyrium pomi,NI only
+Sclerotinia sclerotiorum,NI only
+Scopulariopsis brevicaulis,NI only
+Septoria linicola,NI only
+Shiraia bambusicola,NI only
+Sparassis crispa,NI only
+Spathularia flavida,NI only
+Sporobolomyces koalae,NI only
+Sporobolomyces salmoneus,NI only
+Sporothrix sp. FH-2023a,NI only
+Stagonosporopsis vannaccii,NI only
+Stereum hirsutum,NI only
+Suillus paluster,NI only
+Thermoascus crustaceus,NI only
+Thermomyces lanuginosus,NI only
+Thermothelomyces thermophilus,NI only
+Tilletiaria anomala,NI only
+Tremella mesenterica,NI only
+Trichoderma afroharzianum,NI only
+Trichoderma aggressivum,NI only
+Trichoderma asperellum,NI only
+Trichoderma breve,NI only
+Trichoderma gamsii,NI only
+Trichoderma harzianum,NI only
+Trichoderma reesei,NI only
+Trichophyton rubrum,NI only
+Tuber melanosporum,NI only
+Uncinocarpus reesii,NI only
+Ustilago hordei,NI only
+Vanakripa minutiellipsoidea,NI only
+Venturia effusa,NI only
+Verticillium alfalfae,NI only
+Xanthoria parietina,NI only
+Xylaria hypoxylon,NI only
+Xylona heveae,NI only
+Zarea fungicola,NI only
+Aaosphaeria arxii,Shared (AI and NI)
+Acaromyces ingoldii,Shared (AI and NI)
+Akanthomyces muscarius,Shared (AI and NI)
+Amorphotheca resinae,Shared (AI and NI)
+Annulohypoxylon maeteangense,Shared (AI and NI)
+Annulohypoxylon truncatum,Shared (AI and NI)
+Apiospora aurea,Shared (AI and NI)
+Apiospora hydei,Shared (AI and NI)
+Apiospora kogelbergensis,Shared (AI and NI)
+Apiospora marii,Shared (AI and NI)
+Apiospora phragmitis,Shared (AI and NI)
+Aplosporella prunicola,Shared (AI and NI)
+Arthrocladium fulminans,Shared (AI and NI)
+Ascochyta rabiei,Shared (AI and NI)
+Aspergillus affinis,Shared (AI and NI)
+Aspergillus alliaceus,Shared (AI and NI)
+Aspergillus ambiguus,Shared (AI and NI)
+Aspergillus brasiliensis,Shared (AI and NI)
+Aspergillus candidus,Shared (AI and NI)
+Aspergillus fumigatus,Shared (AI and NI)
+Aspergillus heteromorphus,Shared (AI and NI)
+Aspergillus karnatakaensis,Shared (AI and NI)
+Aspergillus lucknowensis,Shared (AI and NI)
+Aspergillus niger,Shared (AI and NI)
+Aspergillus puulaauensis,Shared (AI and NI)
+Aspergillus sydowii,Shared (AI and NI)
+Aspergillus versicolor,Shared (AI and NI)
+Aspergillus wentii,Shared (AI and NI)
+Baudoinia panamericana,Shared (AI and NI)
+Beauveria bassiana,Shared (AI and NI)
+Berkeleyomyces rouxiae,Shared (AI and NI)
+Boeremia exigua,Shared (AI and NI)
+Cadophora gregata,Shared (AI and NI)
+Canariomyces notabilis,Shared (AI and NI)
+Capronia coronata,Shared (AI and NI)
+Capronia epimyces,Shared (AI and NI)
+Cenococcum geophilum,Shared (AI and NI)
+Ceratocystiopsis pallidobrunnea,Shared (AI and NI)
+Ceratocystis lukuohia,Shared (AI and NI)
+Cercospora beticola,Shared (AI and NI)
+Cercospora kikuchii,Shared (AI and NI)
+Chaetomium fimeti,Shared (AI and NI)
+Chaetomium globosum,Shared (AI and NI)
+Chaetomium strumarium,Shared (AI and NI)
+Chaetomium tenue,Shared (AI and NI)
+Cladophialophora bantiana,Shared (AI and NI)
+Cladophialophora carrionii,Shared (AI and NI)
+Cladophialophora immunda,Shared (AI and NI)
+Cladophialophora psammophila,Shared (AI and NI)
+Cladophialophora yegresii,Shared (AI and NI)
+Cladosporium halotolerans,Shared (AI and NI)
+Colletotrichum acutatum,Shared (AI and NI)
+Colletotrichum fioriniae,Shared (AI and NI)
+Colletotrichum graminicola,Shared (AI and NI)
+Colletotrichum higginsianum,Shared (AI and NI)
+Colletotrichum karsti,Shared (AI and NI)
+Colletotrichum navitas,Shared (AI and NI)
+Colletotrichum orchidophilum,Shared (AI and NI)
+Colletotrichum spaethianum,Shared (AI and NI)
+Colletotrichum truncatum,Shared (AI and NI)
+Coniophora puteana,Shared (AI and NI)
+Cordyceps fumosorosea,Shared (AI and NI)
+Cordyceps militaris,Shared (AI and NI)
+Cryphonectria parasitica,Shared (AI and NI)
+Cucurbitaria berberidis,Shared (AI and NI)
+Cyphellophora attinorum,Shared (AI and NI)
+Daldinia caldariorum,Shared (AI and NI)
+Daldinia vernicosa,Shared (AI and NI)
+Diaporthe amygdali,Shared (AI and NI)
+Diaporthe batatas,Shared (AI and NI)
+Diaporthe citri,Shared (AI and NI)
+Dichomitus squalens,Shared (AI and NI)
+Dichotomopilus funicola,Shared (AI and NI)
+Didymella exigua,Shared (AI and NI)
+Didymosphaeria variabile,Shared (AI and NI)
+Diplodia corticola,Shared (AI and NI)
+Diplodia seriata,Shared (AI and NI)
+Dipodascopsis tothii,Shared (AI and NI)
+Dothidotthia symphoricarpi,Shared (AI and NI)
+Drechmeria coniospora,Shared (AI and NI)
+Drepanopeziza brunnea,Shared (AI and NI)
+Durotheca rogersii,Shared (AI and NI)
+Emericellopsis atlantica,Shared (AI and NI)
+Endocarpon pusillum,Shared (AI and NI)
+Eremomyces bilateralis,Shared (AI and NI)
+Exophiala aquamarina,Shared (AI and NI)
+Exophiala bonariae,Shared (AI and NI)
+Exophiala dermatitidis,Shared (AI and NI)
+Exophiala lecanii-corni,Shared (AI and NI)
+Exophiala mesophila,Shared (AI and NI)
+Exophiala oligosperma,Shared (AI and NI)
+Exophiala spinifera,Shared (AI and NI)
+Exophiala viscosa,Shared (AI and NI)
+Exophiala xenobiotica,Shared (AI and NI)
+Exserohilum turcicum,Shared (AI and NI)
+Fomitopsis serialis,Shared (AI and NI)
+Fonsecaea erecta,Shared (AI and NI)
+Fonsecaea monophora,Shared (AI and NI)
+Fonsecaea multimorphosa,Shared (AI and NI)
+Fonsecaea nubica,Shared (AI and NI)
+Fonsecaea pedrosoi,Shared (AI and NI)
+Fulvia fulva,Shared (AI and NI)
+Fusarium coffeatum,Shared (AI and NI)
+Fusarium falciforme,Shared (AI and NI)
+Fusarium keratoplasticum,Shared (AI and NI)
+Fusarium mangiferae,Shared (AI and NI)
+Fusarium oxysporum,Shared (AI and NI)
+Fusarium solani,Shared (AI and NI)
+Fusarium vanettenii,Shared (AI and NI)
+Gaeumannomyces tritici,Shared (AI and NI)
+Geosmithia morbida,Shared (AI and NI)
+Glarea lozoyensis,Shared (AI and NI)
+Gomphillus americanus,Shared (AI and NI)
+Heterobasidion irregulare,Shared (AI and NI)
+Hirsutella rhossiliensis,Shared (AI and NI)
+Hyaloscypha bicolor,Shared (AI and NI)
+Hypoxylon fragiforme,Shared (AI and NI)
+Hypoxylon trugodes,Shared (AI and NI)
+Ilyonectria robusta,Shared (AI and NI)
+Jaminaea rosea,Shared (AI and NI)
+Kickxella alabastrina,Shared (AI and NI)
+Lasiodiplodia theobromae,Shared (AI and NI)
+Lasiosphaeria miniovina,Shared (AI and NI)
+Leotia lubrica,Shared (AI and NI)
+Leptographium clavigerum,Shared (AI and NI)
+Lindgomyces ingoldianus,Shared (AI and NI)
+Lithohypha guttulata,Shared (AI and NI)
+Macrophomina phaseolina,Shared (AI and NI)
+Macroventuria anomochaeta,Shared (AI and NI)
+Madurella fahalii,Shared (AI and NI)
+Metarhizium album,Shared (AI and NI)
+Microdochium trichocladiopsis,Shared (AI and NI)
+Moesziomyces antarcticus,Shared (AI and NI)
+Mollisia scopiformis,Shared (AI and NI)
+Morchella sextelata,Shared (AI and NI)
+Mycothermus thermophilus,Shared (AI and NI)
+Mytilinidion resinicola,Shared (AI and NI)
+Neoarthrinium moseri,Shared (AI and NI)
+Neohortaea acidophila,Shared (AI and NI)
+Nigrospora oryzae,Shared (AI and NI)
+Paecilomyces variotii,Shared (AI and NI)
+Paraphaeosphaeria sporulosa,Shared (AI and NI)
+Parastagonospora nodorum,Shared (AI and NI)
+Parathielavia appendiculata,Shared (AI and NI)
+Penicilliopsis zonata,Shared (AI and NI)
+Penicillium brevicompactum,Shared (AI and NI)
+Penicillium cataractarum,Shared (AI and NI)
+Penicillium cinerascens,Shared (AI and NI)
+Penicillium citrinum,Shared (AI and NI)
+Penicillium crustosum,Shared (AI and NI)
+Penicillium daleae,Shared (AI and NI)
+Penicillium macrosclerotiorum,Shared (AI and NI)
+Penicillium manginii,Shared (AI and NI)
+Penicillium oxalicum,Shared (AI and NI)
+Penicillium riverlandense,Shared (AI and NI)
+Penicillium soppii,Shared (AI and NI)
+Penicillium subrubescens,Shared (AI and NI)
+Penicillium waksmanii,Shared (AI and NI)
+Pestalotiopsis fici,Shared (AI and NI)
+Phaeoacremonium minimum,Shared (AI and NI)
+Phaeoacremonium parasiticum,Shared (AI and NI)
+Phialemonium atrogriseum,Shared (AI and NI)
+Phyllosticta capitalensis,Shared (AI and NI)
+Phyllosticta citribraziliensis,Shared (AI and NI)
+Phyllosticta yuccae,Shared (AI and NI)
+Plenodomus biglobosus,Shared (AI and NI)
+Pochonia chlamydosporia,Shared (AI and NI)
+Podospora anserina,Shared (AI and NI)
+Pseudogymnoascus verrucosus,Shared (AI and NI)
+Pseudomassariella vexata,Shared (AI and NI)
+Pseudozyma flocculosa,Shared (AI and NI)
+Purpureocillium lilacinum,Shared (AI and NI)
+Purpureocillium takamizusanense,Shared (AI and NI)
+Pyricularia grisea,Shared (AI and NI)
+Pyricularia oryzae,Shared (AI and NI)
+Pyricularia pennisetigena,Shared (AI and NI)
+Rasamsonia byssochlamydoides,Shared (AI and NI)
+Rasamsonia emersonii,Shared (AI and NI)
+Remersonia thermophila,Shared (AI and NI)
+Rhinocladiella mackenziei,Shared (AI and NI)
+Rhodofomes roseus,Shared (AI and NI)
+Rhodotorula graminis,Shared (AI and NI)
+Rhodotorula paludigena,Shared (AI and NI)
+Rhodotorula toruloides,Shared (AI and NI)
+Saxophila tyrrhenica,Shared (AI and NI)
+Scedosporium apiospermum,Shared (AI and NI)
+Schizophyllum commune,Shared (AI and NI)
+Scytalidium sp.,Shared (AI and NI)
+Sodiomyces alcalophilus,Shared (AI and NI)
+Sodiomyces alkalinus,Shared (AI and NI)
+Sordaria macrospora,Shared (AI and NI)
+Sphaerulina musiva,Shared (AI and NI)
+Sporisorium graminicola,Shared (AI and NI)
+Sporothrix brasiliensis,Shared (AI and NI)
+Sporothrix schenckii,Shared (AI and NI)
+Talaromyces amestolkiae,Shared (AI and NI)
+Talaromyces atroroseus,Shared (AI and NI)
+Talaromyces marneffei,Shared (AI and NI)
+Talaromyces proteolyticus,Shared (AI and NI)
+Talaromyces rugulosus,Shared (AI and NI)
+Talaromyces stipitatus,Shared (AI and NI)
+Thermochaetoides thermophila,Shared (AI and NI)
+Thermomyces dupontii,Shared (AI and NI)
+Thermothelomyces heterothallicus,Shared (AI and NI)
+Thermothielavioides terrestris,Shared (AI and NI)
+Thyridium curvatum,Shared (AI and NI)
+Tilletiopsis washingtonensis,Shared (AI and NI)
+Trametes versicolor,Shared (AI and NI)
+Trematosphaeria pertusa,Shared (AI and NI)
+Tricharina praecox,Shared (AI and NI)
+Trichoderma atroviride,Shared (AI and NI)
+Trichoderma citrinoviride,Shared (AI and NI)
+Trichoderma ghanense,Shared (AI and NI)
+Trichoderma virens,Shared (AI and NI)
+Trichosporon asahii,Shared (AI and NI)
+Truncatella angustata,Shared (AI and NI)
+Ustilaginoidea virens,Shared (AI and NI)
+Vanrija albida,Shared (AI and NI)
+Vanrija pseudolonga,Shared (AI and NI)
+Venustampulla echinocandica,Shared (AI and NI)
+Verruconis gallopava,Shared (AI and NI)
+Verticillium dahliae,Shared (AI and NI)
+Verticillium nonalfalfae,Shared (AI and NI)
+Westerdykella ornata,Shared (AI and NI)
+Xylaria bambusicola,Shared (AI and NI)
+Zasmidium cellare,Shared (AI and NI)
+Zymoseptoria tritici,Shared (AI and NI)

@@ -1,0 +1,43 @@
+========================================
+Original fungal read counts
+========================================
+AI_1: R1=1310 reads, R2=1310 reads
+AI_2: R1=54848 reads, R2=54848 reads
+AI_3: R1=41941 reads, R2=41941 reads
+Control: R1=436 reads, R2=436 reads
+KNI: R1=39607 reads, R2=39607 reads
+NI_1: R1=77391 reads, R2=77391 reads
+NI_2: R1=108801 reads, R2=108801 reads
+
+========================================
+CAZyme Hits before filtering
+========================================
+
+AI_1: R1=289 R2=277 all=566
+AI_2: R1=6307 R2=6182 all=12489
+AI_3: R1=6308 R2=6038 all=12346
+KNI: R1=4403 R2=4358 all=8761
+NI_1: R1=13303 R2=13064 all=26367
+NI_2: R1=19763 R2=19473 all=39236
+Control: R1=38 R2=36 all=74
+
+========================================
+CAZyme Hits before vs. after filtering (identity>=60%, alnlen>=30aa)
+========================================
+AI_1: before=566 after=356
+AI_2: before=12489 after=7662
+AI_3: before=12346 after=8084
+KNI: before=8761 after=5099
+NI_1: before=26367 after=17027
+NI_2: before=39236 after=25430
+Control: before=74 after=53
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+############################################################
+# Extract Fungi Reads
+############################################################
+
+mkdir -p data/fungi_reads
+
+for SAMPLE in AI_1 AI_2 AI_3 Control KNI NI_1 NI_2; do
+    echo "========================================"
+    echo "Extracting fungi reads: $SAMPLE"
+    echo "========================================"
+
+    zcat "data/host_removed/${SAMPLE}_R1.host_removed.fastq.gz" > "/tmp/${SAMPLE}_R1.fastq"
+    zcat "data/host_removed/${SAMPLE}_R2.host_removed.fastq.gz" > "/tmp/${SAMPLE}_R2.fastq"
+
+    python3 KrakenTools/extract_kraken_reads.py \
+        -k "kraken2_results/${SAMPLE}_output.txt" \
+        -r "kraken2_results/${SAMPLE}_report.txt" \
+        -s1 "/tmp/${SAMPLE}_R1.fastq" \
+        -s2 "/tmp/${SAMPLE}_R2.fastq" \
+        -t 4751 \
+        --include-children \
+        -o "data/fungi_reads/${SAMPLE}_fungi_R1.fastq" \
+        -o2 "data/fungi_reads/${SAMPLE}_fungi_R2.fastq"
+
+    rm -f "/tmp/${SAMPLE}_R1.fastq" "/tmp/${SAMPLE}_R2.fastq"
+
+    echo "Done: $SAMPLE"
+    echo
+done
+
+echo "All samples completed."
+
+
+
+############################################################
+# Count extracted fungal reads and Compress
+############################################################
+
+echo "========================================"
+echo "Original fungal read counts"
+echo "========================================"
+
+for SAMPLE in AI_1 AI_2 AI_3 Control KNI NI_1 NI_2; do
+    r1=$(grep -c '^>' "data/fungi_reads/${SAMPLE}_fungi_R1.fastq")
+    r2=$(grep -c '^>' "data/fungi_reads/${SAMPLE}_fungi_R2.fastq")
+
+    echo "$SAMPLE: R1=$r1 reads, R2=$r2 reads"
+done
+
+gzip data/fungi_reads/*.fastq
+
+
+############################################################
+# Blast dbcAN, Combine, Count
+############################################################
+
+mkdir -p dbCAN/results
+
+for sample in AI_1 AI_2 AI_3 KNI NI_1 NI_2 Control; do
+  for read in R1 R2; do
+    diamond blastx \
+      -d dbCAN/CAZy.dmnd \
+      -q data/fungi_reads/${sample}_fungi_${read}.fastq.gz \
+      -o dbCAN/results/${sample}_${read}_vs_CAZy.tsv \
+      --outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore \
+      --evalue 1e-5 --sensitive --max-target-seqs 1
+  done
+done
+
+for sample in AI_1 AI_2 AI_3 KNI NI_1 NI_2 Control; do
+  cat dbCAN/results/${sample}_R1_vs_CAZy.tsv \
+      dbCAN/results/${sample}_R2_vs_CAZy.tsv \
+      > dbCAN/results/${sample}_all_vs_CAZy.tsv
+done
+
+for sample in AI_1 AI_2 AI_3 KNI NI_1 NI_2 Control; do
+  r1=$(wc -l < dbCAN/results/${sample}_R1_vs_CAZy.tsv)
+  r2=$(wc -l < dbCAN/results/${sample}_R2_vs_CAZy.tsv)
+  all=$(wc -l < dbCAN/results/${sample}_all_vs_CAZy.tsv)
+  echo "$sample: R1=$r1 R2=$r2 all=$all"
+done
+
+
+echo "========================================"
+echo "Hits before vs. after filtering (identity>=60%, alnlen>=30aa)"
+echo "========================================"
+
+for sample in AI_1 AI_2 AI_3 KNI NI_1 NI_2 Control; do
+  before=$(wc -l < dbCAN/results/${sample}_all_vs_CAZy.tsv)
+  after=$(wc -l < dbCAN/results/filtered/${sample}_all_vs_CAZy.filtered.tsv)
+  echo "$sample: before=$before after=$after"
+done
+
+
+
+
+
+
+
+
+
+
+
+

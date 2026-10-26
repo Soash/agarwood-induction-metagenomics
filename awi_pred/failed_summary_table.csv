@@ -1,0 +1,67 @@
+﻿species,status,accession,assembly_level,source,notes,timestamp
+Acrocalymma sp.,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:55
+Ambrosiella xylebori,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:55
+Annulohypoxylon stygium,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:55
+Arthrocladium fulminans,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:55
+Aspergillus citrinoterreus,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:55
+Aspergillus clavatophorus,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:55
+Bacidia sp.,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:56
+Berkeleyomyces basicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Bretziella fagacearum,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Ceratocystiopsis pallidobrunnea,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:56
+Ceratocystis adiposa,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Ceratocystis fimbriata,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Coccocarpia palmicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Coniothyrium glycines,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Coprinellus micaceus,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Corynespora cassiicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Cytospora mali,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:56
+Debaryomyces vietnamensis,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:57
+Dematophora necatrix,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:57
+Dothideomycetes sp. NU200,FAILED,Contig,GCA_027943355.1,fallback,download failed for accession Contig,21-08-26 14:57
+Edenia gomezpompae,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:57
+Endoconidiophora resinifera,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:57
+Esteya vermicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:57
+Exophiala lecanii-corni,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:57
+Fusarium gamtoosense,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:57
+Ganoderma boninense,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:57
+Gonatophragmium mori,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:58
+Grosmannia fruticeta,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:58
+Hypocrella siamensis,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:58
+Hypomontagnella monticulosa,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:58
+Lasiodiplodia sp. JAS12,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:58
+Lecanora cinereofusca,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:58
+Leotia lubrica,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:58
+Leptographium flavum,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:58
+Lignosphaeria diospyrosa,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:58
+Macrophomina phaseolina,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:58
+Mucor racemosus,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:59
+Nectria cinnabarina,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:59
+Nemania diffusa,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:59
+Ophiocordyceps sp.,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:59
+Pertusaria propinqua,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 14:59
+Pezizomycotina sp. YRX-2025g,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:59
+Phaeoacremonium parasiticum,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:59
+Phaeoseptaceae sp. YJ-2025a,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 14:59
+Phlyctis petraea,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:00
+Phoma sp. 1 OB-2014,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:00
+Phyllosticta yuccae,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:00
+Plectosphaerella sp.,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:00
+Pleosporales sp. BCC25093,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:00
+Pseudopithomyces chartarum,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:00
+Rhizopus arrhizus,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:00
+Rhizopus stolonifer,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:00
+Schizothyrium pomi,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:00
+Scopulariopsis brevicaulis,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:01
+Scytalidium sp.,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:01
+Shiraia bambusicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:01
+Spathularia flavida,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:01
+Sporoschismopsis angustata,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:01
+Sporothrix sp. FH-2023a,FAILED,Complete Genome,GCA_046114455.1,fallback,download failed for accession Complete Genome,21-08-26 15:01
+Vanakripa minutiellipsoidea,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:01
+Xanthoria parietina,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:01
+Xylaria hypoxylon,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:01
+Zarea fungicola,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:01
+Nigrospora oryzae,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:02
+[Neocosmospora] sp. 1 WYB-2024,FAILED,NA,NA,fallback,no assemblies found on NCBI (GenBank or RefSeq),21-08-26 15:02
+[Candida] psychrophila,FAILED,NA,NA,reference,unzipped but gff3/protein files missing,21-08-26 15:02

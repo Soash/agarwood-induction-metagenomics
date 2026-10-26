@@ -1,0 +1,468 @@
+Species,Total GH,Total AA,AA Rank,Tier 1 (Wood),Tier 2 (Tissue),Prediction,Presence Samples,Prevalence,Abundance Score
+Aaosphaeria arxii,332,175,2,3,0,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3412
+Absidia glauca,120,25,5,0,0,Non-Inducer (Rejection),AI_3,1,0.0834
+Acaromyces ingoldii,126,43,3,0,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2508
+Acrocalymma vagum,427,234,2,4,2,Brute Force Inducer,NI_1;NI_2,2,0.174
+Agaricus bisporus,186,97,2,5,1,Non-Inducer (Rejection),NI_1,1,0.0845
+Akanthomyces muscarius,263,75,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3362
+Alternaria alternata,298,174,2,2,1,Non-Inducer (Rejection),NI_1,1,0.1061
+Alternaria arborescens,298,172,2,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1699
+Alternaria arbusti,274,158,2,1,0,Non-Inducer (Rejection),NI_2,1,0.0854
+Alternaria atra,325,171,2,2,1,Brute Force Inducer,KNI;NI_1;NI_2,3,0.2546
+Alternaria burnsii,296,174,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1699
+Alternaria conjuncta,263,149,2,1,0,Non-Inducer (Rejection),NI_2,1,0.0851
+Alternaria dauci,262,159,2,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2543
+Alternaria ethzedia,265,154,2,1,3,Wound Opportunist Inducer,NI_2,1,0.0858
+Alternaria incomplexa,266,152,2,1,0,Non-Inducer (Rejection),NI_1,1,0.087
+Alternaria infectoria,262,150,2,1,2,Non-Inducer (Rejection),NI_2,1,0.0864
+Alternaria metachromatica,267,151,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1687
+Alternaria novae-zelandiae,268,151,2,1,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1687
+Alternaria rosae,277,168,2,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1716
+Alternaria triticimaculans,265,156,2,1,3,Wound Opportunist Inducer,NI_2,1,0.0857
+Alternaria ventricosa,267,152,2,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1695
+Alternaria viburni,262,153,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.169
+Amorphotheca resinae,159,51,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3352
+Annulohypoxylon maeteangense,257,136,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3359
+Annulohypoxylon truncatum,247,149,2,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3372
+Apiospora arundinis,331,198,2,0,1,Non-Inducer (Rejection),KNI,1,0.1111
+Apiospora aurea,342,183,2,0,2,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3365
+Apiospora hydei,340,186,2,1,1,Brute Force Inducer,AI_2;NI_1;NI_2,3,0.253
+Apiospora kogelbergensis,352,195,2,1,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.336
+Apiospora marii,336,213,2,1,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3381
+Apiospora phragmitis,334,151,2,1,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3361
+Apiotrichum porosum,181,32,4,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1673
+Aplosporella prunicola,202,92,2,0,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4184
+Arthrobotrys flagrans,190,70,3,1,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1674
+Arthroderma uncinatum,86,35,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1683
+Ascochyta rabiei,256,113,2,0,3,Wound Opportunist Inducer,AI_2;KNI;NI_1;NI_2,4,0.3392
+Aspergillus affinis,308,110,2,0,4,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2515
+Aspergillus alliaceus,286,107,3,0,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2512
+Aspergillus ambiguus,280,108,2,4,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2515
+Aspergillus bombycis,319,126,3,1,5,Wound Opportunist Inducer,NI_2,1,0.0852
+Aspergillus brasiliensis,280,112,3,2,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2509
+Aspergillus caelatus,341,136,3,3,3,Brute Force Inducer,NI_2,1,0.0843
+Aspergillus campestris,186,70,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1682
+Aspergillus candidus,182,65,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2518
+Aspergillus chevalieri,158,71,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1688
+Aspergillus clavatus,208,63,3,2,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1692
+Aspergillus foveolatus,302,105,2,7,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1679
+Aspergillus fumigatus,284,74,3,3,6,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2534
+Aspergillus glaucus,161,72,3,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Aspergillus heteromorphus,211,78,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3348
+Aspergillus homomorphus,255,93,3,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1683
+Aspergillus ibericus,244,97,3,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1676
+Aspergillus japonicus,276,109,3,2,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1684
+Aspergillus karnatakaensis,344,126,2,3,5,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.251
+Aspergillus lentulus,330,91,3,1,8,Wound Opportunist Inducer,NI_1;NI_2,2,0.1683
+Aspergillus lucknowensis,304,87,3,0,3,Wound Opportunist Inducer,AI_2;KNI;NI_1;NI_2,4,0.3343
+Aspergillus melleus,299,117,2,0,7,Wound Opportunist Inducer,KNI;NI_1;NI_2,3,0.2513
+Aspergillus multicolor,313,111,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.168
+Aspergillus mulundensis,298,99,3,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1678
+Aspergillus nidulans,287,96,3,6,1,Non-Inducer (Rejection),NI_2,1,0.0849
+Aspergillus niger,273,118,3,1,5,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2544
+Aspergillus novofumigatus,325,87,3,2,6,Wound Opportunist Inducer,NI_2,1,0.0844
+Aspergillus ochraceoroseus,184,56,3,2,7,Wound Opportunist Inducer,NI_1;NI_2,2,0.1674
+Aspergillus pseudodeflectus,415,132,2,3,1,Brute Force Inducer,NI_1;NI_2,2,0.1678
+Aspergillus pseudotamarii,340,128,3,3,3,Wound Opportunist Inducer,NI_2,1,0.0845
+Aspergillus puulaauensis,335,128,2,0,3,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2508
+Aspergillus ruber,151,75,3,1,1,Non-Inducer (Rejection),NI_1,1,0.0844
+Aspergillus saccharolyticus,217,84,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1679
+Aspergillus sclerotioniger,250,107,3,0,2,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2523
+Aspergillus stella-maris,291,116,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.168
+Aspergillus steynii,296,115,2,0,3,Wound Opportunist Inducer,KNI;NI_1;NI_2,3,0.2513
+Aspergillus sydowii,330,127,2,1,3,Wound Opportunist Inducer,AI_2;AI_3;NI_1;NI_2,4,0.3344
+Aspergillus tanneri,212,92,3,0,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1675
+Aspergillus terreus,291,100,3,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1711
+Aspergillus thermomutatus,300,85,4,2,7,Wound Opportunist Inducer,NI_2,1,0.0843
+Aspergillus udagawae,321,97,3,1,4,Wound Opportunist Inducer,NI_1,1,0.0851
+Aspergillus undulatus,287,89,3,2,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1682
+Aspergillus uvarum,271,104,3,2,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1684
+Aspergillus versicolor,344,126,2,4,1,Non-Inducer (Rejection),AI_2;NI_2,2,0.1679
+Aspergillus welwitschiae,289,115,3,2,4,Wound Opportunist Inducer,AI_3,1,0.0846
+Aspergillus wentii,244,107,3,0,4,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2507
+Aureobasidium melanogenum,251,70,3,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.17
+Aureobasidium namibiae,278,69,3,1,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1681
+Aureobasidium pullulans,293,73,3,0,3,Wound Opportunist Inducer,KNI;NI_1;NI_2,3,0.2511
+Aureobasidium subglaciale,270,59,3,0,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1685
+Bacidia gigantensis,89,53,3,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2507
+Baudoinia panamericana,175,47,3,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3346
+Beauveria bassiana,185,65,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.339
+Berkeleyomyces rouxiae,110,37,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;NI_1;NI_2,4,0.3349
+Bipolaris maydis,270,153,2,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1725
+Bipolaris oryzae,264,140,2,0,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2556
+Bipolaris sorokiniana,267,138,2,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1727
+Boeremia exigua,318,148,2,6,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3385
+Botrytis byssoidea,249,106,3,1,2,Non-Inducer (Rejection),NI_2,1,0.0839
+Botrytis cinerea,289,113,3,0,3,Wound Opportunist Inducer,KNI;NI_1;NI_2,3,0.2518
+Botrytis fragariae,248,113,2,1,2,Non-Inducer (Rejection),NI_2,1,0.0842
+Cadophora gregata,377,151,2,1,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3347
+Calcarisporiella thermophila,80,56,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Canariomyces notabilis,211,139,2,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3369
+Candida tropicalis,65,14,3,2,0,Non-Inducer (Rejection),AI_3,1,0.0834
+Cantharellus anzutake,135,57,3,5,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Capronia coronata,124,39,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3348
+Capronia epimyces,120,51,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3348
+Cenococcum geophilum,168,79,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3368
+Ceratocystis lukuohia,111,34,3,0,0,Non-Inducer (Rejection),AI_3;KNI;NI_1;NI_2,4,0.3346
+Cercospora beticola,263,108,3,2,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2513
+Cercospora kikuchii,279,115,3,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.335
+Chaetomium fimeti,252,158,2,4,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4198
+Chaetomium globosum,241,139,2,2,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4247
+Chaetomium strumarium,234,117,2,3,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.339
+Chaetomium tenue,262,143,2,3,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4187
+Cladophialophora bantiana,164,74,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.5279
+Cladophialophora carrionii,156,61,3,2,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2513
+Cladophialophora immunda,169,79,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.426
+Cladophialophora psammophila,160,83,3,1,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2521
+Cladophialophora yegresii,143,57,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3344
+Cladosporium halotolerans,270,93,3,3,2,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.419
+Cokeromyces recurvatus,80,22,5,1,1,Non-Inducer (Rejection),AI_3,1,0.0834
+Coleophoma crateriformis,380,141,2,1,3,Brute Force Inducer,NI_1;NI_2,2,0.1672
+Colletotrichum acutatum,383,189,2,1,2,Brute Force Inducer,AI_2;NI_1;NI_2,3,0.2547
+Colletotrichum aenigma,438,226,2,5,2,Brute Force Inducer,NI_1;NI_2,2,0.1717
+Colletotrichum chrysophilum,442,221,2,4,6,Brute Force Inducer,NI_1;NI_2,2,0.171
+Colletotrichum destructivum,357,170,2,7,2,Brute Force Inducer,KNI;NI_1;NI_2,3,0.2536
+Colletotrichum fioriniae,388,190,2,1,4,Brute Force Inducer,AI_2;NI_1;NI_2,3,0.2574
+Colletotrichum fructicola,455,237,2,3,2,Brute Force Inducer,NI_1,1,0.0858
+Colletotrichum gloeosporioides,447,236,2,7,3,Brute Force Inducer,KNI;NI_1;NI_2,3,0.261
+Colletotrichum godetiae,394,196,2,3,1,Brute Force Inducer,KNI;NI_1;NI_2,3,0.2536
+Colletotrichum graminicola,299,147,2,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3369
+Colletotrichum higginsianum,344,176,2,8,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3362
+Colletotrichum karsti,439,220,2,3,4,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3421
+Colletotrichum navitas,307,152,2,5,0,Brute Force Inducer,AI_2;NI_1;NI_2,3,0.2522
+Colletotrichum orchidophilum,311,155,2,2,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3355
+Colletotrichum phormii,372,185,2,2,2,Brute Force Inducer,NI_1;NI_2,2,0.1684
+Colletotrichum scovillei,401,206,2,3,4,Brute Force Inducer,NI_1;NI_2,2,0.1706
+Colletotrichum siamense,445,232,2,4,2,Brute Force Inducer,NI_1;NI_2,2,0.185
+Colletotrichum spaethianum,345,165,2,7,3,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3375
+Colletotrichum truncatum,440,202,2,7,4,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3491
+Coniophora puteana,261,66,2,3,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2507
+Coniosporium apollinis,149,51,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.171
+Coprinopsis cinerea,203,138,2,5,0,Non-Inducer (Rejection),NI_1,1,0.084
+Cordyceps fumosorosea,189,63,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.336
+Cordyceps militaris,170,57,3,1,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3378
+Cryphonectria parasitica,302,98,2,4,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3397
+Cucurbitaria berberidis,251,139,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3382
+Cutaneotrichosporon cavernicola,101,26,4,3,0,Non-Inducer (Rejection),NI_1,1,0.0838
+Cutaneotrichosporon oleaginosum,80,29,4,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1672
+Cyphellophora attinorum,175,73,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3341
+Cyphellophora europaea,197,79,3,1,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2519
+Cystobasidium minutum,86,21,3,2,0,Non-Inducer (Rejection),NI_2,1,0.0837
+Dacryopinax primogenitus,169,30,3,3,1,Non-Inducer (Rejection),AI_2,1,0.084
+Daldinia caldariorum,239,116,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3364
+Daldinia childiae,260,152,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1707
+Daldinia decipiens,244,138,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1708
+Daldinia loculata,240,124,2,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1726
+Daldinia vernicosa,239,131,2,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3358
+Debaryomyces fabryi,83,14,3,1,0,Non-Inducer (Rejection),AI_3,1,0.0834
+Debaryomyces hansenii,80,11,3,1,0,Non-Inducer (Rejection),AI_3,1,0.0844
+Diaporthe amygdali,438,245,2,1,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3392
+Diaporthe batatas,385,230,2,2,0,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3369
+Diaporthe citri,441,248,2,3,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3389
+Dichomitus squalens,234,108,2,2,1,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2512
+Dichotomopilus funicola,229,108,2,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3377
+Didymella exigua,261,108,2,1,3,Wound Opportunist Inducer,AI_2;KNI;NI_1;NI_2,4,0.3371
+Didymosphaeria variabile,349,164,2,3,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3412
+Dioszegia hungarica,130,22,3,2,0,Non-Inducer (Rejection),NI_1,1,0.0841
+Diplodia corticola,261,107,2,2,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4184
+Diplodia seriata,269,112,2,0,2,Non-Inducer (Rejection),AI_3;KNI;NI_1;NI_2,4,0.337
+Dipodascopsis tothii,59,9,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3345
+Dissoconium aciculare,123,43,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1681
+Dothidotthia symphoricarpi,213,99,2,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3384
+Drechmeria coniospora,118,34,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3373
+Drepanopeziza brunnea,205,83,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3347
+Durotheca rogersii,217,119,2,1,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4203
+Emericellopsis atlantica,247,90,3,5,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3353
+Emericellopsis cladophorae,218,78,3,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1695
+Endocarpon pusillum,108,56,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.251
+Epithele typhae,242,114,2,6,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Eremomyces bilateralis,122,78,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2518
+Eremothecium gossypii,45,4,4,0,0,Non-Inducer (Rejection),NI_2,1,0.0842
+Exophiala aquamarina,187,72,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2535
+Exophiala bonariae,184,100,3,2,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2525
+Exophiala dermatitidis,132,43,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;NI_1;NI_2,4,0.3352
+Exophiala mesophila,126,64,3,1,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2515
+Exophiala oligosperma,177,74,3,3,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4226
+Exophiala spinifera,159,61,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3356
+Exophiala viscosa,154,56,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2517
+Exophiala xenobiotica,199,87,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4192
+Exserohilum turcicum,246,141,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3385
+Fibroporia radiculosa,136,40,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1674
+Filobasidium floriforme,149,23,4,0,0,Non-Inducer (Rejection),NI_2,1,0.0837
+Fimicolochytrium jonesii,76,40,3,0,0,Non-Inducer (Rejection),NI_1,1,0.084
+Fomitiporia mediterranea,219,95,2,6,1,Non-Inducer (Rejection),NI_2,1,0.0842
+Fomitopsis serialis,207,68,3,2,4,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2507
+Fonsecaea erecta,166,73,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3355
+Fonsecaea monophora,146,70,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.9167
+Fonsecaea multimorphosa,158,81,3,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3351
+Fonsecaea nubica,150,71,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4305
+Fonsecaea pedrosoi,150,72,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4771
+Fulvia fulva,288,97,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.335
+Fusarium coffeatum,264,113,3,2,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2513
+Fusarium falciforme,370,143,2,3,3,Brute Force Inducer,AI_3;KNI;NI_1;NI_2,4,0.3354
+Fusarium flagelliforme,296,121,2,9,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.168
+Fusarium graminearum,269,114,2,5,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1714
+Fusarium keratoplasticum,357,139,2,4,2,Brute Force Inducer,AI_3;KNI;NI_1;NI_2,4,0.3356
+Fusarium mangiferae,361,141,2,1,2,Brute Force Inducer,AI_2;NI_1;NI_2,3,0.2524
+Fusarium oxysporum,418,152,2,4,3,Brute Force Inducer,AI_3;NI_1;NI_2,3,0.2693
+Fusarium poae,248,119,2,6,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2529
+Fusarium pseudograminearum,259,112,2,4,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1678
+Fusarium redolens,381,142,2,2,3,Brute Force Inducer,NI_1;NI_2,2,0.1692
+Fusarium solani,391,159,2,3,2,Brute Force Inducer,AI_2;AI_3;KNI;NI_1;NI_2,5,0.4254
+Fusarium subglutinans,357,130,2,3,5,Brute Force Inducer,NI_1;NI_2,2,0.1681
+Fusarium tjaetaba,345,132,2,0,3,Wound Opportunist Inducer,NI_2,1,0.0841
+Fusarium vanettenii,358,147,2,3,1,Brute Force Inducer,AI_2;AI_3;KNI;NI_1;NI_2,5,0.4184
+Fusarium venenatum,296,121,2,6,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1682
+Fusarium verticillioides,391,148,3,2,1,Brute Force Inducer,NI_2,1,0.0846
+Gaeumannomyces tritici,267,126,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3409
+Gamsiella multidivaricata,76,33,3,0,0,Non-Inducer (Rejection),NI_2,1,0.084
+Geosmithia morbida,141,43,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3369
+Gilbertella persicaria,107,25,5,1,0,Non-Inducer (Rejection),AI_3,1,0.0834
+Glarea lozoyensis,266,145,2,1,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3349
+Gloeophyllum trabeum,219,54,3,1,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1673
+Gomphillus americanus,125,37,3,1,1,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2526
+Guyanagaster necrorhizus,241,108,2,1,0,Non-Inducer (Rejection),NI_1,1,0.0839
+Heterobasidion irregulare,188,108,2,5,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2508
+Hirsutella rhossiliensis,140,65,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3393
+Hyaloscypha bicolor,357,139,2,1,4,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3356
+Hypoxylon fragiforme,223,106,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3368
+Hypoxylon trugodes,263,168,2,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.336
+Ilyonectria robusta,436,168,2,3,3,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3378
+Jaminaea rosea,91,21,3,0,0,Non-Inducer (Rejection),AI_2;NI_2,2,0.1671
+Kalmanozyma brasiliensis,109,28,3,0,1,Non-Inducer (Rejection),NI_2,1,0.0839
+Kickxella alabastrina,85,33,3,0,0,Non-Inducer (Rejection),AI_2;NI_2,2,0.1672
+Knufia obscura,172,67,3,1,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1679
+Kockiozyma suomiensis,71,20,3,2,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Kwoniella dejecticola,141,23,3,0,1,Non-Inducer (Rejection),NI_2,1,0.0838
+Kwoniella dendrophila,117,21,3,1,1,Non-Inducer (Rejection),NI_1,1,0.0841
+Kwoniella heveanensis,130,18,3,0,1,Non-Inducer (Rejection),NI_2,1,0.0839
+Laccaria bicolor,158,53,3,1,0,Non-Inducer (Rejection),NI_1,1,0.0852
+Lachnellula hyalina,221,91,3,1,2,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2515
+Lasiodiplodia theobromae,306,156,2,1,2,Brute Force Inducer,AI_1;AI_2;AI_3;KNI;NI_1;NI_2,6,0.5991
+Lasiosphaeria miniovina,255,155,2,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3412
+Lentinula edodes,266,92,2,3,2,Non-Inducer (Rejection),NI_1,1,0.0849
+Lentinus tigrinus,246,122,2,6,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1684
+Leptographium clavigerum,157,50,3,1,2,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4207
+Letharia lupina,132,59,3,0,0,Non-Inducer (Rejection),NI_1,1,0.0862
+Lichtheimia ornata,123,22,5,0,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Limtongia smithiae,58,13,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1672
+Linderina pennispora,155,61,3,3,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Lindgomyces ingoldianus,292,181,2,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3572
+Lipomyces japonicus,63,8,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Lipomyces tetrasporus,106,29,3,1,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Lithohypha guttulata,125,45,3,1,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2507
+Lobosporangium transversale,69,39,3,1,0,Non-Inducer (Rejection),NI_1,1,0.084
+Lodderomyces beijingensis,90,20,3,2,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Macroventuria anomochaeta,267,101,2,3,2,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3377
+Madurella fahalii,240,170,2,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3442
+Marasmius oreades,284,167,2,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Melampsora laricis-populina,196,55,3,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1672
+Melanopsichium pennsylvanicum,99,28,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1672
+Metarhizium acridum,191,68,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1683
+Metarhizium album,143,44,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3357
+Metarhizium brunneum,193,78,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1685
+Metarhizium robertsii,206,87,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1729
+Metschnikowia bicuspidata,51,8,4,1,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Meyerozyma guilliermondii,69,11,3,1,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Microdochium trichocladiopsis,344,135,3,3,0,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3368
+Microsporum canis,92,41,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Moesziomyces antarcticus,127,31,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2514
+Mollisia scopiformis,407,192,2,3,3,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3363
+Morchella importuna,182,73,2,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1678
+Morchella sextelata,185,78,2,0,0,Non-Inducer (Rejection),AI_2;NI_2,2,0.1674
+Mrakia frigida,122,28,4,1,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Mucor mucedo,121,26,5,0,1,Non-Inducer (Rejection),AI_3,1,0.0834
+Mucor velutinosus,109,25,5,1,1,Non-Inducer (Rejection),AI_3,1,0.0838
+Mycena indigotica,311,120,2,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1673
+Mycosarcoma maydis,114,31,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Mycothermus thermophilus,162,80,3,3,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3398
+Mycotypha africana,72,18,5,2,0,Non-Inducer (Rejection),AI_3,1,0.0834
+Mytilinidion resinicola,185,93,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3374
+Myxozyma melibiosi,83,19,3,2,0,Non-Inducer (Rejection),NI_2,1,0.084
+Nannizzia gypsea,87,43,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Neoarthrinium moseri,380,223,2,3,3,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.339
+Neodothiora populina,184,54,3,1,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1684
+Neohortaea acidophila,127,43,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3355
+Neurospora crassa,199,77,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1705
+Neurospora hispaniola,185,74,3,1,0,Non-Inducer (Rejection),NI_2,1,0.0856
+Neurospora tetrasperma,181,75,3,1,0,Non-Inducer (Rejection),NI_2,1,0.085
+Neurospora tetraspora,212,93,3,2,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2535
+Niveomyces insectorum,196,73,3,0,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1808
+Ophidiomyces ophidiicola,71,24,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1681
+Orbilia oligospora,215,74,3,2,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1674
+Paecilomyces variotii,156,60,3,1,2,Non-Inducer (Rejection),AI_3;NI_1;NI_2,3,0.2518
+Paracoccidioides brasiliensis,73,26,3,0,0,Non-Inducer (Rejection),NI_2,1,0.086
+Paracoccidioides lutzii,76,28,3,0,0,Non-Inducer (Rejection),NI_2,1,0.084
+Paraphaeosphaeria sporulosa,361,183,2,2,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3412
+Parastagonospora nodorum,287,160,2,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.341
+Parathielavia appendiculata,245,130,2,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3378
+Penicilliopsis zonata,205,51,3,2,1,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2517
+Penicillium alfredii,151,49,3,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2513
+Penicillium angulare,292,99,3,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Penicillium antarcticum,276,94,3,0,2,Non-Inducer (Rejection),NI_2,1,0.084
+Penicillium argentinense,293,86,3,2,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1677
+Penicillium arizonense,326,104,3,1,2,Non-Inducer (Rejection),NI_1,1,0.0862
+Penicillium atrosanguineum,273,82,3,1,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1678
+Penicillium bovifimosum,213,48,4,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Penicillium brevicompactum,276,107,3,1,4,Wound Opportunist Inducer,AI_2;AI_3;NI_1;NI_2,4,0.3351
+Penicillium canariense,255,76,3,3,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1682
+Penicillium canescens,370,120,3,6,1,Non-Inducer (Rejection),NI_2,1,0.0846
+Penicillium cataractarum,385,101,3,4,6,Wound Opportunist Inducer,AI_2;AI_3;NI_1;NI_2,4,0.3346
+Penicillium chermesinum,188,62,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1682
+Penicillium cinerascens,239,61,3,0,1,Non-Inducer (Rejection),AI_3;NI_1;NI_2,3,0.2507
+Penicillium citrinum,269,89,3,0,2,Non-Inducer (Rejection),AI_1;AI_2;AI_3;KNI;NI_1;NI_2,6,0.5446
+Penicillium concentricum,258,103,3,1,3,Wound Opportunist Inducer,NI_2,1,0.0842
+Penicillium coprophilum,227,84,3,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Penicillium cosmopolitanum,352,113,3,0,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1677
+Penicillium crustosum,278,88,3,0,7,Wound Opportunist Inducer,AI_3;NI_2,2,0.1691
+Penicillium daleae,398,90,3,2,4,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2511
+Penicillium diatomitis,227,53,3,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1676
+Penicillium digitatum,180,50,3,0,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1678
+Penicillium expansum,267,100,3,0,4,Wound Opportunist Inducer,NI_2,1,0.0849
+Penicillium griseofulvum,239,84,3,0,2,Non-Inducer (Rejection),NI_2,1,0.0848
+Penicillium hispanicum,173,57,3,1,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.168
+Penicillium hordei,262,86,3,1,3,Wound Opportunist Inducer,NI_2,1,0.0845
+Penicillium lagena,365,76,3,1,4,Wound Opportunist Inducer,NI_1;NI_2,2,0.1679
+Penicillium longicatenatum,327,103,3,0,7,Wound Opportunist Inducer,NI_1;NI_2,2,0.1677
+Penicillium maclennaniae,216,65,3,3,3,Wound Opportunist Inducer,KNI;NI_1;NI_2,3,0.2512
+Penicillium macrosclerotiorum,291,87,3,1,4,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.251
+Penicillium malachiteum,299,102,3,1,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.1677
+Penicillium manginii,353,104,3,1,6,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.2508
+Penicillium mononematosum,259,87,3,2,3,Wound Opportunist Inducer,NI_2,1,0.085
+Penicillium nucicola,301,94,3,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1676
+Penicillium odoratum,285,98,3,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Penicillium oxalicum,232,57,3,0,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2517
+Penicillium paradoxum,186,76,3,0,2,Non-Inducer (Rejection),NI_2,1,0.0841
+Penicillium psychrofluorescens,315,61,3,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Penicillium pulvis,289,99,3,0,5,Wound Opportunist Inducer,NI_1;NI_2,2,0.1674
+Penicillium riverlandense,358,70,3,6,5,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2513
+Penicillium samsonianum,281,100,3,0,3,Wound Opportunist Inducer,NI_1;NI_2,2,0.168
+Penicillium solitum,281,86,3,0,7,Wound Opportunist Inducer,AI_3,1,0.0834
+Penicillium soppii,295,95,3,1,0,Non-Inducer (Rejection),AI_3;NI_1;NI_2,3,0.2507
+Penicillium subrubescens,401,102,3,6,6,Wound Opportunist Inducer,AI_3;NI_1;NI_2,3,0.251
+Penicillium taxi,167,53,3,0,4,Wound Opportunist Inducer,NI_1;NI_2,2,0.1676
+Penicillium verhagenii,288,87,3,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Penicillium verrucosum,247,75,3,0,4,Wound Opportunist Inducer,NI_1;NI_2,2,0.1682
+Penicillium vulpinum,250,93,3,0,4,Wound Opportunist Inducer,NI_1;NI_2,2,0.1676
+Penicillium waksmanii,328,100,3,0,2,Non-Inducer (Rejection),AI_3;NI_2,2,0.1674
+Periconia digitata,307,181,2,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1714
+Pestalotiopsis fici,452,240,2,3,3,Brute Force Inducer,AI_2;AI_3;KNI;NI_1;NI_2,5,0.4206
+Phaeoacremonium minimum,272,93,2,0,2,Non-Inducer (Rejection),AI_1;AI_2;AI_3;KNI;NI_1;NI_2,6,0.5332
+Phanerochaete carnosa,192,121,2,6,0,Non-Inducer (Rejection),NI_2,1,0.0841
+Phialemonium atrogriseum,254,138,2,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.345
+Phycomyces blakesleeanus,86,19,5,1,3,Wound Opportunist Inducer,AI_3,1,0.0834
+Phyllosticta capitalensis,188,73,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3371
+Phyllosticta citriasiana,188,72,3,0,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2515
+Phyllosticta citribraziliensis,186,72,3,0,1,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2519
+Pisolithus orientalis,97,36,3,3,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Plenodomus biglobosus,243,110,2,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.4347
+Plenodomus lingam,229,102,2,2,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2559
+Pochonia chlamydosporia,325,90,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3356
+Podospora anserina,219,144,2,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3371
+Polychytrium aggregatum,121,23,3,2,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2505
+Pseudocercospora fijiensis,239,79,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1691
+Pseudogymnoascus destructans,116,41,3,0,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1689
+Pseudogymnoascus verrucosus,362,108,2,4,6,Wound Opportunist Inducer,AI_2;KNI;NI_1;NI_2,4,0.3348
+Pseudomassariella vexata,321,161,2,3,1,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3357
+Pseudovirgaria hyperparasitica,216,90,3,1,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2519
+Pseudozyma flocculosa,126,27,3,0,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2511
+Pseudozyma hubeiensis,121,30,3,0,2,Non-Inducer (Rejection),KNI;NI_2,2,0.1672
+Psilocybe cubensis,253,148,2,11,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1673
+Puccinia graminis,178,38,4,2,2,Non-Inducer (Rejection),NI_2,1,0.0837
+Puccinia striiformis,213,51,3,5,1,Non-Inducer (Rejection),NI_1,1,0.0839
+Puccinia triticina,171,45,3,1,1,Non-Inducer (Rejection),NI_2,1,0.0837
+Punctularia strigosozonata,245,100,2,3,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1673
+Purpureocillium lilacinum,256,79,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4609
+Purpureocillium takamizusanense,240,72,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3391
+Pyrenophora tritici-repentis,242,136,2,3,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1893
+Pyricularia grisea,267,134,2,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3362
+Pyricularia oryzae,270,131,2,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3394
+Pyricularia pennisetigena,265,127,2,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3359
+Ramularia collo-cygni,227,67,3,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2513
+Rasamsonia byssochlamydoides,219,55,3,3,2,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3343
+Rasamsonia emersonii,219,58,3,0,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2514
+Recurvomyces mirabilis,296,76,3,2,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2519
+Remersonia thermophila,146,72,3,1,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3456
+Rhinocladiella mackenziei,137,66,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3357
+Rhizoctonia solani,326,136,2,9,10,Brute Force Inducer,NI_2,1,0.0852
+Rhizomucor pusillus,118,23,4,1,1,Non-Inducer (Rejection),NI_2,1,0.0838
+Rhizophagus irregularis,40,45,2,3,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1676
+Rhizopus delemar,140,21,5,2,4,Wound Opportunist Inducer,AI_3,1,0.0836
+Rhizopus microsporus,102,18,5,3,1,Non-Inducer (Rejection),AI_3,1,0.0836
+Rhodofomes roseus,197,55,3,2,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2508
+Rhodonia placenta,149,53,3,1,5,Wound Opportunist Inducer,NI_1;NI_2,2,0.1672
+Rhodotorula graminis,80,22,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3348
+Rhodotorula pacifica,80,17,3,1,0,Non-Inducer (Rejection),NI_1,1,0.084
+Rhodotorula paludigena,86,27,3,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3343
+Rhodotorula toruloides,80,24,3,0,0,Non-Inducer (Rejection),AI_3;NI_1;NI_2,3,0.2505
+Saitoella complicata,85,15,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Sarocladium implicatum,311,100,2,1,0,Non-Inducer (Rejection),NI_2,1,0.0986
+Saxophila tyrrhenica,223,63,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3354
+Scedosporium apiospermum,194,126,2,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3401
+Schizophyllum commune,260,93,2,5,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2515
+Sclerotinia sclerotiorum,228,82,3,0,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Septoria linicola,279,85,3,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1753
+Sodiomyces alcalophilus,157,71,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3369
+Sodiomyces alkalinus,149,79,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3361
+Sordaria macrospora,208,99,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3364
+Sparassis crispa,135,34,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Sphaerulina musiva,182,59,3,0,2,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3342
+Sporisorium graminicola,122,30,3,1,1,Non-Inducer (Rejection),AI_2;NI_1,2,0.1672
+Sporobolomyces koalae,82,19,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0839
+Sporobolomyces salmoneus,86,19,3,0,0,Non-Inducer (Rejection),NI_2,1,0.0838
+Sporothrix brasiliensis,198,71,3,0,1,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2546
+Sporothrix schenckii,212,73,3,1,4,Wound Opportunist Inducer,AI_2;KNI;NI_1;NI_2,4,0.3519
+Stagonosporopsis vannaccii,290,129,2,2,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1831
+Stereum hirsutum,295,129,2,2,1,Non-Inducer (Rejection),NI_1;NI_2,2,0.1673
+Suillus paluster,148,60,3,6,1,Non-Inducer (Rejection),NI_2,1,0.0845
+Talaromyces amestolkiae,374,85,3,5,4,Wound Opportunist Inducer,AI_2;AI_3;NI_1;NI_2,4,0.3354
+Talaromyces atroroseus,228,62,3,2,4,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2509
+Talaromyces marneffei,225,67,3,2,2,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4182
+Talaromyces proteolyticus,363,101,3,1,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2513
+Talaromyces rugulosus,353,115,2,3,3,Wound Opportunist Inducer,AI_2;NI_1;NI_2,3,0.2518
+Talaromyces stipitatus,275,89,3,2,2,Non-Inducer (Rejection),AI_1;AI_2;AI_3;NI_1;NI_2,5,0.4254
+Thermoascus crustaceus,169,51,3,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2513
+Thermochaetoides thermophila,141,63,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4219
+Thermomyces dupontii,98,28,3,0,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2512
+Thermomyces lanuginosus,103,31,3,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1677
+Thermothelomyces heterothallicus,196,84,2,4,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2536
+Thermothelomyces thermophilus,196,79,3,4,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1714
+Thermothielavioides terrestris,213,96,2,3,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4252
+Thyridium curvatum,320,120,2,2,3,Wound Opportunist Inducer,AI_2;AI_3;KNI;NI_1;NI_2,5,0.4328
+Tilletiaria anomala,80,19,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1675
+Tilletiopsis washingtonensis,88,24,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.251
+Trametes versicolor,240,108,2,5,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2507
+Trematosphaeria pertusa,320,186,2,2,0,Brute Force Inducer,AI_2;AI_3;KNI;NI_1;NI_2,5,0.4332
+Tremella mesenterica,75,13,4,1,1,Non-Inducer (Rejection),NI_1,1,0.0846
+Tricharina praecox,133,74,2,1,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2509
+Trichoderma afroharzianum,276,84,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.4281
+Trichoderma aggressivum,264,80,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1683
+Trichoderma asperellum,278,72,3,1,2,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2534
+Trichoderma atroviride,280,74,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3404
+Trichoderma breve,284,88,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1679
+Trichoderma citrinoviride,213,67,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3363
+Trichoderma gamsii,268,75,3,0,0,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2514
+Trichoderma ghanense,205,59,3,0,0,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2523
+Trichoderma harzianum,288,89,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1685
+Trichoderma reesei,207,59,3,0,1,Non-Inducer (Rejection),KNI;NI_1;NI_2,3,0.2521
+Trichoderma virens,283,87,3,0,0,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4195
+Trichophyton rubrum,90,37,3,1,1,Non-Inducer (Rejection),NI_2,1,0.0845
+Trichosporon asahii,100,33,3,1,0,Non-Inducer (Rejection),AI_2;AI_3;NI_2,3,0.2506
+Truncatella angustata,396,200,2,6,2,Brute Force Inducer,AI_2;KNI;NI_1;NI_2,4,0.3364
+Tuber melanosporum,88,37,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1672
+Uncinocarpus reesii,79,26,3,1,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1676
+Ustilaginoidea virens,129,35,3,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3368
+Ustilago hordei,99,27,3,1,1,Non-Inducer (Rejection),NI_2,1,0.0838
+Vanrija albida,110,29,3,3,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3342
+Vanrija pseudolonga,128,29,3,1,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3342
+Venturia effusa,211,90,3,0,0,Non-Inducer (Rejection),NI_1;NI_2,2,0.1681
+Venustampulla echinocandica,228,95,3,2,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3389
+Verruconis gallopava,151,64,3,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3348
+Verticillium alfalfae,281,108,2,2,2,Non-Inducer (Rejection),NI_2,1,0.0846
+Verticillium dahliae,278,107,2,3,2,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3383
+Verticillium nonalfalfae,285,118,2,3,2,Non-Inducer (Rejection),AI_2;NI_1;NI_2,3,0.2552
+Westerdykella ornata,196,107,2,0,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3411
+Xylaria bambusicola,271,145,2,1,1,Non-Inducer (Rejection),AI_2;AI_3;KNI;NI_1;NI_2,5,0.4179
+Xylona heveae,102,24,4,0,2,Non-Inducer (Rejection),NI_1;NI_2,2,0.1686
+Zasmidium cellare,354,144,2,0,1,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3375
+Zymoseptoria tritici,197,64,3,2,0,Non-Inducer (Rejection),AI_2;KNI;NI_1;NI_2,4,0.3356
