@@ -1,8 +1,8 @@
 # Shotgun Metagenomic Dissection of the *Aquilaria malaccensis* Microbiome: Fungal Community Dynamics, CAZyme Architectures, and Predictive Modeling of Agarwood Induction
 
-**Author(s):** Tanbir Rahman$^1$, Jobayer Hossain Rafi$^1$, Md Abu Sadat Soash$^2$  
-$^1$*National Institute of Biotechnology, Bangladesh*  
-$^2$*Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
+**Author(s):** Tanbir Rahman<sup>1</sup>, Jobayer Hossain Rafi<sup>1</sup>, Md Abu Sadat Soash<sup>2</sup>  
+<sup>1</sup> *National Institute of Biotechnology, Bangladesh*  
+<sup>2</sup> *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
 **Funding & Institutional Host:** *National Institute of Biotechnology, Bangladesh*
 
 [![Funding: National Institute of Biotechnology](https://img.shields.io/badge/Funding%20%26%20Host-National%20Institute%20of%20Biotechnology-navy.svg)](http://www.nib.gov.bd/)
