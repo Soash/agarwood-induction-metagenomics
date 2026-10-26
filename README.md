@@ -15,8 +15,7 @@
 
 ## Confidentiality & Academic Evaluation Notice
 
-> **Important Notice:** This repository contains **unpublished research and ongoing manuscript preparations** funded and supported by the **National Institute of Biotechnology, Bangladesh** by Tanbir Rahman, Jobayer Hossain Rafi, and Md Abu Sadat Soash. 
-> - **Author Contributions:** Wet-lab sample isolation, field inoculation experiments, and manuscript writing were conducted by **Tanbir Rahman** and **Jobayer Hossain Rafi**. Large-scale bioinformatic workflows, Google Cloud Platform (GCP) Ubuntu compute infrastructure, taxonomic classification, CAZyme profiling, and the **AWI-Pred** machine learning/rule-based decision model were conceived, developed, and executed by **Md Abu Sadat Soash**.
+> **Important Notice:** This repository contains **unpublished research and ongoing manuscript preparations** by Tanbir Rahman, Jobayer Hossain Rafi, and Md Abu Sadat Soash.
 > - **Purpose:** This repository serves as a verifiable, documented record of computational methodologies, analytical workflows, and reproducible scripts for prospective academic review and graduate research evaluation.
 > - **Data Protection:** Raw high-throughput FASTQ sequencing data, proprietary biological isolate records, and unpublished manuscript drafts are restricted and excluded via `.gitignore` to maintain confidentiality prior to formal peer-reviewed publication.
 
@@ -253,22 +252,23 @@ python run_downstream_analysis.py
 
 ---
 
-## 8. Authorship, Institutional Affiliation & Inquiries
+## 8. Authorship, Funding & Correspondence
 
 ### Research Investigators
-- **Tanbir Rahman** — *National Institute of Biotechnology, Bangladesh* (Sample collection, wet-lab bioassays, manuscript drafting)
-- **Jobayer Hossain Rafi** — *National Institute of Biotechnology, Bangladesh* (Sample collection, laboratory experimentation)
-- **Md Abu Sadat Soash** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Cloud compute infrastructure, bioinformatic workflows, statistical analysis, AWI-Pred decision engine development)
+- **Tanbir Rahman** — *National Institute of Biotechnology, Bangladesh*  
+  *Contributions:* Sample collection, field inoculation experiments, wet-lab bioassays, and manuscript drafting.
+- **Jobayer Hossain Rafi** — *National Institute of Biotechnology, Bangladesh*  
+  *Contributions:* Sample collection, wet-lab experimental bioassays, and laboratory procedures.
+- **Md Abu Sadat Soash** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
+  *Contributions:* Large-scale bioinformatic architecture, Google Cloud Platform (GCP) Ubuntu compute execution, host decontamination, taxonomic classification, CAZyme profiling, statistical modeling, and AWI-Pred decision engine development.
 
-### Funding & Institutional Support
-This research project was funded and conducted under the institutional framework of the **National Institute of Biotechnology, Bangladesh** ([NIB](http://www.nib.gov.bd/)).
+### Funding & Institutional Host
+- **Funding & Host Institution:** [National Institute of Biotechnology, Bangladesh](http://www.nib.gov.bd/) (NIB)
 
-### Inquiries & Academic Review
+### Correspondence & Academic Inquiries
 For inquiries regarding the computational workflows, analytical scripts, or collaborative evaluation:
 - **Email:** [mdabu13@student.sust.edu](mailto:mdabu13@student.sust.edu)
-- **Department:** [Department of Genetic Engineering and Biotechnology](https://www.sust.edu/departments/geb)
-- **Academic Institution:** [Shahjalal University of Science and Technology](https://www.sust.edu/)
-- **Project Funding & Institutional Host:** [National Institute of Biotechnology, Bangladesh](http://www.nib.gov.bd/)
+- **Institution:** [Shahjalal University of Science and Technology](https://www.sust.edu/)
 
 ---
 
