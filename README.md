@@ -1,8 +1,8 @@
 # Shotgun Metagenomic Dissection of the *Aquilaria malaccensis* Microbiome: Fungal Community Dynamics, CAZyme Architectures, and Predictive Modeling of Agarwood Induction
 
-**Author(s):** Tanbir Rahman, Jobayer Hossain Rafi, Md Abu Sadat Soash  
-*Department of Genetic Engineering and Biotechnology*<br>
-*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
+**Author(s):** Tanbir Rahman$^1$, Jobayer Hossain Rafi$^2$, Md Abu Sadat Soash$^2$  
+$^1$*Department of Botany, Jahangirnagar University, Savar, Bangladesh*  
+$^2$*Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
 [![Status: Manuscript in Preparation](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-orange.svg)](#confidentiality--academic-evaluation-notice)
 [![Host: Aquilaria malaccensis](https://img.shields.io/badge/Host-Aquilaria%20malaccensis-brightgreen.svg)](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/181630/)
@@ -255,7 +255,7 @@ python run_downstream_analysis.py
 ## 8. Authorship, Confidentiality & Inquiries
 
 ### Research Investigators
-- **Tanbir Rahman** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Sample collection, wet-lab bioassays, manuscript drafting)
+- **Tanbir Rahman** — *Department of Botany, Jahangirnagar University, Savar, Bangladesh* (Sample collection, wet-lab bioassays, manuscript drafting)
 - **Jobayer Hossain Rafi** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Sample collection, laboratory experimentation)
 - **Md Abu Sadat Soash** — *Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh* (Cloud compute infrastructure, bioinformatic workflows, statistical analysis, AWI-Pred decision engine development)
 
