@@ -24,7 +24,7 @@
 ## Abstract
 
 * **Objective:** Agarwood, a fragrant resinous heartwood derived from *Aquilaria* species (notably *Aquilaria malaccensis*), is an economically prized botanical commodity driven by defensive plant sesquiterpenoid and 2-(2-phenylethyl)chromone secondary metabolite synthesis. Wild agarwood formation is triggered by physical injury and opportunistic microbial infection. However, the exact taxonomic community shifts and enzymatic mechanisms distinguishing artificial chemical/fungal inoculation (AI) from natural resinous induction (NI) remain poorly understood. This study aims to decipher the *A. malaccensis* metagenome across distinct induction modalities and develop a predictive bioinformatic classifier to identify prospective agarwood-inducing fungal species.
-* **Methodology:** Shotgun metagenomic sequencing was performed across 7 biological conditions spanning Artificial Inoculation (`AI_1`, `AI_2`, `AI_3`), Natural Induction (`NI_1`, `NI_2`), Knotted Natural Induction (`KNI`), and non-induced healthy controls (`Control`). Raw reads were processed on a Google Cloud Platform (GCP) 16-vCPU Ubuntu instance, undergoing adapter/poly-G trimming (`fastp`) and dual-host decontamination (`bowtie2`) against *Aquilaria malaccensis* (`GCA_037177235.1`) and human contaminant reference genomes. Pure microbial reads were classified across all four domains using **Kraken2** and abundance-corrected via **Bracken v3.0.1** using the comprehensive `k2_core_nt` database. Fungal Carbohydrate-Active enZymes (CAZymes) were mined using **dbCAN**, and an empirical rule-based decision tree (**AWI-Pred**) was formulated to classify fungal genomes based on auxiliary activity (AA) and glycoside hydrolase (GH) arsenals.
+* **Methodology:** Shotgun metagenomic sequencing was performed across 7 biological conditions spanning Artificial Inoculation (`AI_1`, `AI_2`, `AI_3`), Natural Induction (`NI_1`, `NI_2`), Khadimnagar Natural Induction (`KNI`), and non-induced healthy controls (`Control`). Raw reads were processed on a Google Cloud Platform (GCP) 16-vCPU Ubuntu instance, undergoing adapter/poly-G trimming (`fastp`) and dual-host decontamination (`bowtie2`) against *Aquilaria malaccensis* (`GCA_037177235.1`) and human contaminant reference genomes. Pure microbial reads were classified across all four domains using **Kraken2** and abundance-corrected via **Bracken v3.0.1** using the comprehensive `k2_core_nt` database. Fungal Carbohydrate-Active enZymes (CAZymes) were mined using **dbCAN**, and an empirical rule-based decision tree (**AWI-Pred**) was formulated to classify fungal genomes based on auxiliary activity (AA) and glycoside hydrolase (GH) arsenals.
 * **Findings:** Host depletion successfully isolated microbial read fractions, revealing significant taxonomic succession in the fungal mycobiome. Artificially induced trees (AI) exhibited a profound restructuring of dominant fungal endophytes and pathogens relative to non-induced controls. CAZyme profiling established that verified agarwood-inducing fungi possess specialized wood-penetration signatures. The **AWI-Pred** decision framework segregated candidate fungi into two primary functional categories: **"Brute Force" Inducers** (possessing high Auxiliary Activities $\text{AA} \ge 130$, Glycoside Hydrolases $\text{GH} \ge 300$, and Tier 1 structural lignin/cellulose clusters) versus **"Wound Opportunists"** (low structural firepower, relying on Tier 2 pectin/sap metabolism). Benchmarking against confirmed inducers (*Colletotrichum gloeosporioides*, *Fusarium oxysporum*, *Botryosphaeria dothidea*, *Lasiodiplodia theobromae*) confirmed robust model fidelity across 533 evaluated fungal proteomes.
 * **Implications:** This study provides a comprehensive metagenomic and enzymatic blueprint of microbial agarwood formation. The AWI-Pred computational framework provides a high-throughput screening tool to select non-destructive, highly potent fungal bio-inoculants, replacing destructive tree harvesting with sustainable biotechnology.
 
@@ -40,7 +40,7 @@
                  ┌───────────────┴───────────────┐
                  ▼                               ▼
       Natural Induction (NI & KNI)       Artificial Inoculation (AI)
-   (Wild Trunk & Resinous Knots)        (Fungal / Chemical Inoculants)
+   (Forest Trunk & Khadimnagar Site)    (Fungal / Chemical Inoculants)
                  │                               │
                  ▼                               ▼
        Parenchyma Exposure &           Lignocellulolytic Attack
@@ -80,7 +80,7 @@ Shotgun metagenomic libraries were generated across seven experimental condition
 | **`AI_3`** | Artificial Inoculation (Replicate 3) | Hyper-induced heartwood sample | Illumina PE150 |
 | **`NI_1`** | Natural Induction (Replicate 1) | Naturally infected forest specimen with wild resin formation | Illumina PE100 |
 | **`NI_2`** | Natural Induction (Replicate 2) | High-grade wild agarwood formation | Illumina PE100 |
-| **`KNI`** | Knotted Natural Induction | Naturally formed resinous branch knot (wild knot induction) | Illumina PE100 |
+| **`KNI`** | Khadimnagar Natural Induction | Naturally infected forest specimen collected from Khadimnagar (wild resin formation) | Illumina PE100 |
 | **`Control`** | Healthy Non-Induced Baseline | Healthy, white uninfected trunk sapwood | Illumina PE100 |
 
 ---
@@ -161,7 +161,7 @@ Analysis of confirmed agarwood-inducing fungal proteomes demonstrated that wood-
 
 | Metric | Visualization | Description |
 | :---: | :---: | :--- |
-| **Fungal Composition** | [![Stacked Bar](fungi_summary/fungi_composition_stackedbar.png)](fungi_summary/fungi_composition_stackedbar.png) | Phylum and genus-level relative abundance across AI, NI, KNI (Knotted Natural Induction), and Control. |
+| **Fungal Composition** | [![Stacked Bar](fungi_summary/fungi_composition_stackedbar.png)](fungi_summary/fungi_composition_stackedbar.png) | Phylum and genus-level relative abundance across AI, NI, KNI (Khadimnagar Natural Induction), and Control. |
 | **Species Abundance Heatmap** | [![Species Heatmap](fungi_summary/fungi_species_heatmap.png)](fungi_summary/fungi_species_heatmap.png) | Hierarchical clustering of dominant fungal species across all 7 libraries. |
 | **AI vs. NI Differential Volcano** | [![Volcano Plot](fungi_summary/fungi_AI_vs_NI_volcano.png)](fungi_summary/fungi_AI_vs_NI_volcano.png) | Statistical enrichment and fold-change of fungal species in AI vs. NI wood. |
 | **Species Overlap Venn Diagram** | [![Venn Diagram](fungi_summary/fungi_AI_vs_NI_venn.png)](fungi_summary/fungi_AI_vs_NI_venn.png) | Shared vs. unique fungal operational taxonomic units between induction states. |
