@@ -1,4 +1,4 @@
-# Shotgun Metagenomic Dissection of the *Aquilaria malaccensis* Microbiome: Fungal Community Dynamics, CAZyme Architectures, and Predictive Modeling of Agarwood Induction
+# Shotgun Metagenomic Dissection of the *Aquilaria malaccensis* Microbiome: Fungal Community Dynamics, CAZyme Profiles, and Rule-Based Classification of Agarwood-Inducing Fungi
 
 **Author(s):** Tanbir Rahman<sup>1</sup>, Jobayer Hossain Rafi<sup>1</sup>, Md Abu Sadat Soash<sup>2</sup>  
 <sup>1</sup> *National Institute of Biotechnology, Bangladesh*  
@@ -25,8 +25,8 @@
 
 * **Objective:** Agarwood, a fragrant resinous heartwood derived from *Aquilaria* species (notably *Aquilaria malaccensis*), is an economically prized botanical commodity driven by defensive plant sesquiterpenoid and 2-(2-phenylethyl)chromone secondary metabolite synthesis. Wild agarwood formation is triggered by physical injury and opportunistic microbial infection. However, the exact taxonomic community shifts and enzymatic mechanisms distinguishing artificial chemical/fungal inoculation (AI) from natural resinous induction (NI) remain poorly understood. This study aims to decipher the *A. malaccensis* metagenome across distinct induction modalities and develop a predictive bioinformatic classifier to identify prospective agarwood-inducing fungal species.
 * **Methodology:** Shotgun metagenomic sequencing was performed across 7 biological conditions spanning Artificial Inoculation (`AI_1`, `AI_2`, `AI_3`), Natural Induction (`NI_1`, `NI_2`), Khadimnagar Natural Induction (`KNI`), and non-induced healthy controls (`Control`). Raw reads were processed on a Google Cloud Platform (GCP) 16-vCPU Ubuntu instance, undergoing adapter/poly-G trimming (`fastp`) and dual-host decontamination (`bowtie2`) against *Aquilaria malaccensis* (`GCA_037177235.1`) and human contaminant reference genomes. Pure microbial reads were classified across all four domains using **Kraken2** and abundance-corrected via **Bracken v3.0.1** using the comprehensive `k2_core_nt` database. Fungal Carbohydrate-Active enZymes (CAZymes) were mined using **dbCAN**, and an empirical rule-based decision tree (**AWI-Pred**) was formulated to classify fungal genomes based on auxiliary activity (AA) and glycoside hydrolase (GH) arsenals.
-* **Findings:** Host depletion successfully isolated microbial read fractions, revealing significant taxonomic succession in the fungal mycobiome. Artificially induced trees (AI) exhibited a profound restructuring of dominant fungal endophytes and pathogens relative to non-induced controls. CAZyme profiling established that verified agarwood-inducing fungi possess specialized wood-penetration signatures. The **AWI-Pred** decision framework segregated candidate fungi into two primary functional categories: **"Brute Force" Inducers** (possessing high Auxiliary Activities $\text{AA} \ge 130$, Glycoside Hydrolases $\text{GH} \ge 300$, and Tier 1 structural lignin/cellulose clusters) versus **"Wound Opportunists"** (low structural firepower, relying on Tier 2 pectin/sap metabolism). Benchmarking against confirmed inducers (*Colletotrichum gloeosporioides*, *Fusarium oxysporum*, *Botryosphaeria dothidea*, *Lasiodiplodia theobromae*) confirmed robust model fidelity across 533 evaluated fungal proteomes.
-* **Implications:** This study provides a comprehensive metagenomic and enzymatic blueprint of microbial agarwood formation. The AWI-Pred computational framework provides a high-throughput screening tool to select non-destructive, highly potent fungal bio-inoculants, replacing destructive tree harvesting with sustainable biotechnology.
+* **Findings:** Host depletion successfully isolated microbial read fractions, revealing marked differences in fungal community composition between induction states. Artificially induced trees (AI) showed a clear shift in dominant fungal endophytes and pathogens relative to the non-induced control. CAZyme profiling suggested that reported agarwood-inducing fungi carry characteristic wood-degradation enzyme repertoires. The rule-based **AWI-Pred** decision framework classified candidate fungi into two primary functional categories: **"Brute Force" Inducers** (possessing high Auxiliary Activities $\text{AA} \ge 130$, Glycoside Hydrolases $\text{GH} \ge 300$, and Tier 1 structural lignin/cellulose clusters) versus **"Wound Opportunists"** (lower structural degradation capacity, relying on Tier 2 pectin/sap metabolism). Across 533 fungal proteomes, the rules place reported inducers (*Colletotrichum gloeosporioides*, *Fusarium oxysporum*, *Botryosphaeria dothidea*, *Lasiodiplodia theobromae*) in inducer classes; because the rules were designed around reported inducer and non-inducer species, independent experimental validation is still needed.
+* **Implications:** This study provides a metagenomic and enzymatic baseline for microbial agarwood formation. AWI-Pred offers a transparent first-pass way to shortlist candidate fungal bio-inoculants for experimental testing, a step toward more sustainable agarwood production.
 
 ---
 
@@ -100,7 +100,7 @@ flowchart TD
         C --> F["<b>dbCAN Annotation</b><br/>GH, AA, PL, CE Profiling"]
     end
 
-    subgraph P3 ["Phase 3: Statistical Modeling & AWI-Pred Classifier"]
+    subgraph P3 ["Phase 3: Statistical Analysis & AWI-Pred Rule-Based Classification"]
         direction LR
         E --> G["<b>Differential Mycobiome</b><br/>AI vs. NI vs. Control Volcano/Heatmap"] --> I["<b>AWI-Pred Decision Engine</b><br/>Brute Force vs. Opportunist vs. Non-Inducer"]
         F --> H["<b>CAZyme CPM Matrices</b><br/>Auxiliary Activity (AA) Thresholding"] --> I
@@ -111,17 +111,17 @@ flowchart TD
 
 ---
 
-## 4. Key Scientific Findings & Inducer Modeling
+## 4. Key Scientific Findings & Inducer Classification
 
 ### 4.1 Dual-Host Depletion & Multi-Domain Composition
 * **Microbial Fraction Isolation:** Direct mapping against the *Aquilaria malaccensis* (`GCA_037177235.1`) and human contaminant reference genomes removed $>90\%$ of host background reads, enriching for genuine endophytic and pathogenic microbial reads.
 * **Domain Distribution:** Bacterial and fungal reads constituted the overwhelming majority of non-host reads, with distinct domain shifts visible between artificially inoculated (`AI`) and non-induced (`Control`) samples.
 
 ### 4.2 Differential Fungal Succession (AI vs. NI vs. Control)
-* **Mycobiome Restructuring:** Fungal community richness and diversity (Shannon index) expanded significantly in artificially inoculated wood relative to healthy controls.
-* **Statistical Differential Taxa:** Statistical evaluation of fungal CPM abundances between AI and NI cohorts identified specific fungal operational taxonomic units uniquely enriched during artificial induction, pointing to active fungal participants in resin triggering.
+* **Mycobiome Restructuring:** Fungal community richness and diversity (Shannon index) was higher in artificially inoculated wood relative to healthy controls.
+* **Statistical Differential Taxa:** Statistical evaluation of fungal CPM abundances between AI and NI cohorts identified specific fungal operational taxonomic units uniquely enriched during artificial induction, pointing to candidate fungal participants in resin induction.
 
-### 4.3 The AWI-Pred Predictive Decision Framework
+### 4.3 AWI-Pred: A Rule-Based CAZyme Decision Framework
 
 Analysis of confirmed agarwood-inducing fungal proteomes demonstrated that wood-colonizing inducers fall into distinct enzymatic regimes based on their **Carbohydrate-Active Enzyme (CAZyme)** profiles:
 
@@ -148,10 +148,12 @@ Analysis of confirmed agarwood-inducing fungal proteomes demonstrated that wood-
 
 | Metric Dimension | Threshold Value | Biological Rationale | Data Reference |
 | :--- | :---: | :--- | :--- |
-| **Total Auxiliary Activities (AA)** | **$\ge 130$** | **The Armor Breaker Gap:** Demands dedicated oxidative enzymes (laccases, peroxidases) to breach recalcitrant lignin. | Differentiates true wood-decaying inducers (*P. setosa* at 139) from weak opportunists (*A. niger* at 118). |
-| **Total Glycoside Hydrolases (GH)** | **$\ge 300$** | **The Maceration Standard:** High catalytic firepower needed to rapidly digest cellulose/hemicellulose. | Cleared by high-yield inducers (*C. gloeosporioides*, *F. oxysporum*, *F. solani*, *B. dothidea*). |
-| **Tier 1 Gene Clusters** | **$\ge 1$** | **Structural Lignocellulose Target:** Confirms active evolution for living structural tree decay. | Proves specialized adaptation to structural woody trunks. |
+| **Total Auxiliary Activities (AA)** | **$\ge 130$** | **Lignin-degradation capacity:** Requires dedicated oxidative enzymes (laccases, peroxidases) to breach recalcitrant lignin. | Differentiates true wood-decaying inducers (*P. setosa* at 139) from weak opportunists (*A. niger* at 118). |
+| **Total Glycoside Hydrolases (GH)** | **$\ge 300$** | **Polysaccharide-degradation capacity:** Large GH repertoires support digestion of cellulose/hemicellulose. | Cleared by high-yield inducers (*C. gloeosporioides*, *F. oxysporum*, *F. solani*, *B. dothidea*). |
+| **Tier 1 Gene Clusters** | **$\ge 1$** | **Structural Lignocellulose Target:** Indicates capacity for structural lignocellulose decay. | Consistent with adaptation to woody tissue. |
 | **Tier 2 Gene Clusters** | **$\ge 3$** | **Wound Parenchyma Target:** Enables feeding on exposed parenchyma and storage sap. | Identifies non-destructive wound colonizers that stress tree metabolism without rotting wood. |
+
+> **Scope and limitations:** AWI-Pred is a transparent rule-based classifier, not a trained statistical model. Its thresholds were chosen using CAZyme counts of a small set of reported agarwood-inducing and non-inducing reference fungi, so its classifications of the 533 proteomes are hypotheses for experimental testing. The community analyses are based on 7 libraries (artificial induction: 3; natural induction: 3, including KNI; control: 1) sequenced with mixed read lengths (PE100 and PE150), so between-group differences should be treated as exploratory.
 
 ---
 
@@ -166,12 +168,12 @@ Analysis of confirmed agarwood-inducing fungal proteomes demonstrated that wood-
 | **AI vs. NI Differential Volcano** | [![Volcano Plot](fungi_summary/fungi_AI_vs_NI_volcano.png)](fungi_summary/fungi_AI_vs_NI_volcano.png) | Statistical enrichment and fold-change of fungal species in AI vs. NI wood. |
 | **Species Overlap Venn Diagram** | [![Venn Diagram](fungi_summary/fungi_AI_vs_NI_venn.png)](fungi_summary/fungi_AI_vs_NI_venn.png) | Shared vs. unique fungal operational taxonomic units between induction states. |
 
-### 5.2 AWI-Pred Model Performance & CAZyme Clustering
+### 5.2 AWI-Pred Classification Outputs & CAZyme Clustering
 
-| Model Diagnostic | Plot Preview | Biological Interpretation |
+| Output | Plot Preview | Biological Interpretation |
 | :---: | :---: | :--- |
 | **Class Distribution** | [![Class Distribution](awi_pred/agarwood_predictions_plots/class_distribution_barchart.png)](awi_pred/agarwood_predictions_plots/class_distribution_barchart.png) | Stratification of 533 fungal proteomes across Brute Force, Opportunist, and Non-Inducers. |
-| **GH vs. AA Firepower Scatter** | [![Scatter Plot](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter.png)](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter.png) | Bivariate distribution of Glycoside Hydrolases vs. Auxiliary Activities across classes. |
+| **GH vs. AA Scatter** | [![Scatter Plot](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter.png)](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter.png) | Bivariate distribution of Glycoside Hydrolases vs. Auxiliary Activities across classes. |
 | **Marginal Distribution** | [![Marginal Scatter](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter_marginal.png)](awi_pred/agarwood_predictions_plots/gh_vs_aa_scatter_marginal.png) | Marginal density plots highlighting the enzymatic separation along the $\text{AA} \ge 130$ threshold. |
 | **Top Enzymatic Species** | [![Top 15 Species](awi_pred/agarwood_predictions_plots/top15_species_by_total_enzymes.png)](awi_pred/agarwood_predictions_plots/top15_species_by_total_enzymes.png) | Ranking of candidate fungal species possessing the highest total lignocellulolytic firepower. |
 
@@ -199,7 +201,7 @@ agarwood-induction-metagenomics/
 │   └── plot_agarwood_predictions.py           # AWI-Pred diagnostic plotting routines
 ├── awi_pred/                                  # Agarwood Induction Prediction (AWI-Pred) Engine
 │   ├── RULES.md                               # Mathematical & biological rules of decision tree
-│   ├── Confirmed_Agarwood_Inducing_Fungi_Species.csv # Gold-standard benchmark species
+│   ├── Confirmed_Agarwood_Inducing_Fungi_Species.csv # Reference inducer species
 │   ├── confirmed_inducers_summary.csv         # CAZyme metrics of verified inducers
 │   ├── agarwood_predictions.csv               # Complete predictions for 533 fungal proteomes
 │   ├── failed_summary_table.csv               # Audit of unannotated/failed proteomes
